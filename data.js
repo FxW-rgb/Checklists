@@ -499,7 +499,16 @@ window.AUDIMAX_DATA = {
           ],
           "order": 20,
           "condition": "Abwischen: bei Bedarf"
-        }
+        },
+{
+  "id": "alea-queue-system",
+  "label": "Personenleitsystem aufbauen",
+  "info": [
+    "Das Personenleitsystem steht entlang der Wand Richtung Garderobe.",
+    "Beachten: Das Personenleitsystem darf nur bis auf Höhe der ersten Säule in den Gang hineinragen (Brandschutz)."
+  ],
+  "order": 21
+}
       ],
       "finalPhotos": [
         "alea-setup"

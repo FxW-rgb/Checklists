@@ -1,6 +1,6 @@
 # audimax events – mobile Arbeitshilfe
 
-Zehn Checklisten, separate Anleitungs- und Zielbildansichten in einer `index.html`. Die feste Menüleiste wechselt die Ansicht ohne Sprungmarken. Original-Logo, Claim „Guter Service beginnt mit Überblick“, dunkles Audimax-Design mit warmer heller Schrift und Bernstein statt Rot.
+Zehn Checklisten, separate Anleitungs- und Zielbildansichten in einer `index.html`. Die feste Menüleiste wechselt die Ansicht ohne Sprungmarken. Original-Logo, Titel „Checklisten – Alle ToDos auf einen Blick“, dunkles Audimax-Design mit warmer heller Schrift und Bernstein statt Rot.
 
 ## Aktuelle Checklisten
 
@@ -42,13 +42,13 @@ Die frühere eigenständige Platzierungsaufgabe ist in den letzten Hauptpunkt in
 
 Jede Aufgabe hat einen Info-Button. Hinweise, verknüpfte Anleitungen und Zielbilder öffnen sich in einem Dialog; die Liste bleibt dahinter erhalten. Aus einer Anleitung kann zum Arbeitsschritt zurückgekehrt werden.
 
-Suche, Phasenfilter und „Nur offene Aufgaben“ lassen sich kombinieren. Gesucht wird in Checklisten-Titeln, Aufgaben, übergeordneten Aufgaben, Bedingungen und Info-Texten. Umlaute und Groß-/Kleinschreibung werden normalisiert. Oberpunkte in gefilterten Ergebnissen verändern nur die sichtbaren Unteraufgaben. Die Fortschrittsanzeige zählt weiterhin die gesamte Checkliste.
+Suche, Phasenfilter und „Nur offene“ lassen sich kombinieren. Gesucht wird in Checklisten-Titeln, Aufgaben, übergeordneten Aufgaben, Bedingungen und Info-Texten. Umlaute und Groß-/Kleinschreibung werden normalisiert. Oberpunkte in gefilterten Ergebnissen verändern nur die sichtbaren Unteraufgaben. Die Fortschrittsanzeige zählt weiterhin die gesamte Checkliste.
 
 Die aufklappbaren Listen behalten ihre Reihenfolge; ausgearbeitete Hauptpunkte sind nummeriert. Vollständige Listen zeigen ihre Abschluss-Zielbilder, Such- und Nur-offene-Ansichten konzentrieren sich auf die passenden Aufgaben.
 
 ## Speicherung und vorhandene Stände
 
-Die Speicherung bleibt ausschließlich lokal im Browser und nach Datum getrennt. Standarddatum ist der aktuelle Tag in Europe/Berlin. Ein Datum entspricht einem lokalen Arbeitsstand. Bei Einsätzen über Mitternacht das ursprüngliche Datum beibehalten.
+Die Speicherung bleibt ausschließlich lokal im Browser und nach Datum getrennt. Standarddatum ist der aktuelle Tag in Europe/Berlin. Ein Datum entspricht einem lokalen Arbeitsstand. Die Datumsauswahl und der Speicherhinweis sind derzeit ausgeblendet; angezeigt wird der Stand des aktuellen Tages.
 
 Der bestehende Speicherschlüssel bleibt unverändert. Entfernte Aufgaben und Checklisten werden nicht aus gespeicherten Browserdaten gelöscht, aber in der Oberfläche nicht mehr angezeigt. Unveränderte Aufgaben behalten ihre IDs und Häkchen. Die zusammengefasste Bestandsprüfung und die um die Platzierung erweiterte Nachschubaufgabe verwenden neue IDs, damit frühere Teilstände nicht fälschlich als vollständige Erledigung gelten. Auch die neu ausgearbeiteten Abbauaufgaben haben eigene IDs.
 
@@ -101,3 +101,7 @@ Für GitHub Pages die Website-Dateien einschließlich `assets/` und `.nojekyll` 
 `node --test tests.cjs` prüft zwanzig Fälle, darunter die zehn verbleibenden Checklisten, genau vier Abbau-Listen, integrierte Garderobe/Vorbestellungen, Lagerorte, Sandwich-Bedingung, Hinweise ausschließlich als Kästen, Suche und lokale Speicherung.
 
 Im Browser geprüft: konsolidierte Übersicht, Sandwich- und Lagerhinweise sowie die mobile Abbauansicht ohne horizontalen Überlauf bei 390 Pixel Framebreite (375 Pixel nutzbar). Originalbilder, echte Mobilgeräte und die betriebliche Freigabe der abgeleiteten Abbauabläufe stehen noch aus.
+
+## Zugangsschutz
+
+Die Website hat derzeit keine PIN-Abfrage. GitHub Pages kann keine geheime serverseitige PIN-Prüfung ausführen. Dafür ist ein Hosting mit Serverfunktion nötig; die PIN darf ausschließlich dort als geheime Konfiguration hinterlegt werden. Auch ein öffentlicher Prüfwert für eine vierstellige PIN bietet keinen Schutz gegen das Durchprobieren aller Kombinationen.

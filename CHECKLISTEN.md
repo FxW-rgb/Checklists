@@ -132,6 +132,12 @@ Lesefassung der zehn verbleibenden Checklisten. Abbauabläufe sind aus dem Aufba
   - Hinweisbox: Abwischen: bei Bedarf
   - Die Tische aufsperren, abwischen und Flyer oder ähnliche ausgelegte Materialien entfernen.
 
+#### 21. Personenleitsystem aufbauen
+
+- [ ] **Personenleitsystem aufbauen**
+  - Das Personenleitsystem steht entlang der Wand Richtung Garderobe.
+  - Beachten: Das Personenleitsystem darf nur bis auf Höhe der ersten Säule in den Gang hineinragen (Brandschutz).
+
 Zum Abschluss: Alea · Aufgebaut (Bildplatz).
 
 ### Aufbau Schwarze Bar
