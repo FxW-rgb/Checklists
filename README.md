@@ -1,107 +1,66 @@
-# audimax events – mobile Arbeitshilfe
+# audimax events – Checklisten
 
-Zehn Checklisten, separate Anleitungs- und Zielbildansichten in einer `index.html`. Die feste Menüleiste wechselt die Ansicht ohne Sprungmarken. Original-Logo, Titel „Checklisten – Alle ToDos auf einen Blick“, dunkles Audimax-Design mit warmer heller Schrift und Bernstein statt Rot.
+Mobile Arbeitshilfe für Aufbau, Pausenvorbereitung und Abbau. Eine statische Website mit Suche, kombinierbaren Filtern, lokalen Tagesständen, Anleitungen, Fotos und Videos. Kein Build und keine Paketinstallation erforderlich.
 
-## Aktuelle Checklisten
+## Inhalte
 
-| Phase | Checkliste |
-| --- | --- |
-| Aufbau | Aufbau Alea |
-| Aufbau | Aufbau Schwarze Bar |
-| Aufbau | Aufbau Aperol Bar |
-| Aufbau | Aufbau Getränke & Lager |
-| Pausenvorbereitung | Nachbereitung Vorverkauf & Vorbereitung Pausenverkauf |
-| Pausenvorbereitung | Vorbereitung Vorbestellungen |
-| Abbau | Abbau Alea (inkl. Garderobe) |
-| Abbau | Abbau Schwarze Bar (inkl. Pausenvorbestellungen) |
-| Abbau | Abbau Aperol Bar |
-| Abbau | Abbau Getränke & Lager |
+Die drei Aufbaulisten für Alea, schwarze Bar und Getränke/Lager wurden am 10. November 2026 anhand der bereitgestellten Aufbauvorlage überarbeitet. Die übrigen Checklisten bleiben erhalten. Insgesamt gibt es zehn Checklisten.
 
-Garderobe ist in den Alea-Listen integriert; Aufbau und Abbau der Pausenvorbestellungen gehören zur schwarzen Bar. Eigenständige Checklisten für Vorverkauf, Garderobenbetrieb und Pausenverkauf sind entfernt. Diese Inhalte stehen als eigene Anleitungen weiterhin zur Verfügung.
+- Alea: Material und Waren aus dem UNIKAT, Geräte, Backwaren, Kassenstationen, Personenleitsystem und Garderobe; 21 Hauptschritte mit einzelnen Unteraufgaben.
+- Schwarze Bar und Stehtische: acht Hauptschritte; ein Kühlelement ab etwa 650 Gästen, zwei ab etwa 1.000 Gästen. Die widersprüchliche Kassenverteilung aus der Vorlage wurde nach Rücksprache nicht übernommen. Alea nutzt Kassen 1–3, die schwarze Bar Kassen 4–5.
+- Getränke und Lager: Bestände prüfen, Fehlmengen auffüllen und Pausennachschub bereitstellen. Entnahmen aus dem gekühlten UNIKAT-Kernbestand werden wieder aufgefüllt. Richtwert: drei Kästen pro Getränkeart für Alea und ein Kasten pro Getränkeart und Kasse an der schwarzen Bar.
 
-Die Abbau-Listen sind aus dem bisherigen Aufbau abgeleitete Entwürfe. Rückgabeplätze, Geräteabschluss und konkrete Aperol-Bar-Ausstattung müssen noch betrieblich abgeglichen werden. Die Hinweise stehen auch direkt in den jeweiligen Checklisten. Es wurden keine unbekannten Reinigungsprogramme, Geräteeinstellungen oder verbindlichen Kassenabschlussverfahren erfunden.
+Der Zusatzkühlschrank an Alea-Kasse 3 ist für mehr als 1.000 Gäste vorgesehen. Das Personenleitsystem wird bei mehr als 600 Gästen aufgebaut und darf aus Brandschutzgründen nur bis zur ersten Betonsäule in den Gang reichen.
 
-`CHECKLISTEN.md` enthält eine lesbare Fassung aller zehn Listen mit sämtlichen Hinweisen.
+Abbau Alea wurde am 11. November 2026 anhand der neuen Vorlage mit 18 Hauptschritten überarbeitet. Die vorbereitenden Schritte 01–09 und die Abschlussarbeiten 10–18 sind mit Zeitbedingungen gekennzeichnet. Garderobe, Kaffeeabschluss und Restwaren bleiben als Unteraufgaben erhalten. Auch Abbau Schwarze Bar wurde anhand der neuen Vorlage mit acht Hauptschritten überarbeitet: möglichst vor Veranstaltungsende abschließen, Getränkebestand vor der Einlagerung auffüllen und Kassen sowie Betriebsmittel zur Alea übergeben. Vorbestellungsabschluss und Rückgabe von Kissen/Kisten bleiben als Unteraufgaben erhalten. Nur Abbau Aperol Bar und Getränke/Lager bleiben Entwürfe. Die Aperol-Ausstattung und konkrete Geräteabschlussverfahren sind weiterhin zu ergänzen.
 
-## Getränke & Lager
+## Bedienung
 
-Der Aufbau ist auf vier Hauptpunkte verdichtet:
+Die erste Filterzeile wählt alle oder nur offene Aufgaben. Die zweite Zeile schränkt nach Aufbau, Pausenvorbereitung oder Abbau ein; erneutes Antippen einer ausgewählten Phase hebt diese Einschränkung auf. Suche und Filter lassen sich kombinieren.
 
-1. Material aus dem Unikat holen – mit vier Unteraufgaben für Brezen, Wäsche, Kassenladen und Sandwiches
-2. Getränkebestände prüfen – Alea, schwarze Bar und aufgebauter Kühlschrank an Kasse 3 zusammengefasst
-3. Fehlende Getränke für den Vorverkauf auffüllen – Getränkekühlung Unikat; Rotwein im Trockenlager Unikat oder Lager Tiefgarage, Schlüssel am Fleischerhaken in der Küche
-4. Pausennachschub organisieren und bereitstellen – Keller Audimax, Mengen, Transportwagen und Platzierung neben den Verkaufsbereichen in einem Arbeitsschritt
+Jeder Arbeitsschritt hat einen Info-Button für Hinweise, Bilder und verknüpfte Anleitungen. Die Bilderübersicht gliedert echte Fotos nach Verkaufsbereichen, Lagerplätzen und aufgeräumten Bereichen. Detailfotos können in voller Größe geöffnet werden. Für Backwaren stehen vier Anleitungsvideos mit Wiedergabesteuerung bereit. Videos laden erst bei Nutzung und pausieren beim Schließen oder Wechseln des Dialogs.
 
-Sandwiches sind keine frei optionale Aufgabe: Wenn die Unikat-Küche geöffnet ist, werden sie immer vorbereitet und abgeholt. Diese Einsatzbedingung steht in einer kleinen Hinweisbox.
+## Speicherung
 
-Die frühere eigenständige Platzierungsaufgabe ist in den letzten Hauptpunkt integriert. Dessen Info-Dialog enthält auch die beiden Nachschub-Zielbilder; außerdem erscheinen sie am Ende der vollständigen Liste.
+Arbeitsstände bleiben lokal im Browser, nach Datum getrennt. Der aktuelle Tag wird in Europe/Berlin bestimmt. Die Datumsauswahl und der normale Speicherhinweis sind ausgeblendet; Speicherfehler werden weiterhin angezeigt. Es gibt keine geräteübergreifende Synchronisierung.
 
-## Hinweise und Bedienung
+Der Speicherschlüssel `audimax-workdays-v2-local` bleibt unverändert. Unveränderte Aufgaben behalten ihre IDs. Neu zusammengefasste oder wesentlich erweiterte Arbeitsumfänge haben neue IDs, damit alte Häkchen nicht als vollständig erledigte neue Aufgaben gelten. Nicht mehr angezeigte Aufgaben bleiben in vorhandenen Browserdaten erhalten.
 
-„Bei Bedarf“ steht ausschließlich in kleinen Bedingungskästen, nicht in Aufgabenbezeichnungen oder Fließtexten. Bei Teilaufgaben ist der Bezug ausdrücklich genannt, beispielsweise „Auffüllen: bei Bedarf“.
+## Bilder und Videos
 
-Jede Aufgabe hat einen Info-Button. Hinweise, verknüpfte Anleitungen und Zielbilder öffnen sich in einem Dialog; die Liste bleibt dahinter erhalten. Aus einer Anleitung kann zum Arbeitsschritt zurückgekehrt werden.
+37 ausgewählte Originalfotos liegen unter `assets/photos/`. Sie wurden korrekt ausgerichtet, auf höchstens 1.800 Pixel Kantenlänge verkleinert und ohne Übernahme von EXIF-Metadaten gespeichert. Bildausschnitte und betriebliche Details wurden nicht künstlich verändert. Doppelte Fotos, Alarmanlagenaufnahmen und die nicht benötigte Pustet-Aufbauaufnahme wurden nicht übernommen.
 
-Suche, Phasenfilter und „Nur offene“ lassen sich kombinieren. Gesucht wird in Checklisten-Titeln, Aufgaben, übergeordneten Aufgaben, Bedingungen und Info-Texten. Umlaute und Groß-/Kleinschreibung werden normalisiert. Oberpunkte in gefilterten Ergebnissen verändern nur die sichtbaren Unteraufgaben. Die Fortschrittsanzeige zählt weiterhin die gesamte Checkliste.
+Vier MP4-Videos unter `assets/videos/` wurden für die Website mit maximal 960 Pixel Kantenlänge und H.264/AAC neu codiert. Zusammen sind sie etwa 23 MB statt rund 313 MB groß. Die Originaldateien im Download-Ordner bleiben unverändert. Kein einzelnes Video überschreitet die GitHub-Dateigrößengrenze.
 
-Die aufklappbaren Listen behalten ihre Reihenfolge; ausgearbeitete Hauptpunkte sind nummeriert. Vollständige Listen zeigen ihre Abschluss-Zielbilder, Such- und Nur-offene-Ansichten konzentrieren sich auf die passenden Aufgaben.
+Wo keine passende Aufnahme vorliegt, bleibt am jeweiligen Detailhinweis ein ausdrücklicher Bildplatz. Fehlende Bilder erscheinen nicht als leere Karten in der Bilderübersicht. Die fotografierte Backanleitung und die Videos ersetzen keine erfundenen Geräteparameter; konkrete Einstellwerte werden nicht aus undeutlichen Bildstellen abgeleitet.
 
-## Speicherung und vorhandene Stände
+## Dateien
 
-Die Speicherung bleibt ausschließlich lokal im Browser und nach Datum getrennt. Standarddatum ist der aktuelle Tag in Europe/Berlin. Ein Datum entspricht einem lokalen Arbeitsstand. Die Datumsauswahl und der Speicherhinweis sind derzeit ausgeblendet; angezeigt wird der Stand des aktuellen Tages.
-
-Der bestehende Speicherschlüssel bleibt unverändert. Entfernte Aufgaben und Checklisten werden nicht aus gespeicherten Browserdaten gelöscht, aber in der Oberfläche nicht mehr angezeigt. Unveränderte Aufgaben behalten ihre IDs und Häkchen. Die zusammengefasste Bestandsprüfung und die um die Platzierung erweiterte Nachschubaufgabe verwenden neue IDs, damit frühere Teilstände nicht fälschlich als vollständige Erledigung gelten. Auch die neu ausgearbeiteten Abbauaufgaben haben eigene IDs.
-
-Archiv, nachträgliche Prüffunktion sowie Export-/Importdialog bleiben entfernt. Browserdatenlöschung, Privatmodus und Wechsel der Website-Adresse können lokale Stände unzugänglich machen. Es gibt keine gemeinsame Geräte-Synchronisierung und keinen vollständigen Offline-Start. Google Sheets bleibt der vorgesehene zweite Schritt und ist noch nicht angebunden.
-
-## Zentrale Inhaltsdatei
-
-Alle aktuell gültigen Checklisten, Hinweise, Anleitungen und Bildverweise stehen nun gemeinsam in `data.js`. Frühere schrittweise Ergänzungsdateien sind im aktuellen Paket nicht mehr enthalten. Damit gibt es keine sich gegenseitig überschreibenden Inhaltsdefinitionen.
-
-| Feld | Bedeutung |
-| --- | --- |
-| `id` | Dauerhaft stabile, global eindeutige Aufgaben-ID |
-| `label` | Aufgabenbezeichnung ohne optionale Floskeln |
-| `info` | Hinweise für den Info-Dialog |
-| `condition` | Kleine Bedingungsbox an der Aufgabe |
-| `children` | Weitere Unteraufgaben |
-| `guide` | Verknüpfte Anleitung |
-| `photos` | Verknüpfte Zielbilder |
-| `notes` | Allgemeine Hinweise an der Checkliste |
-| `conditions` | Kleine Bedingungsboxen an der Checkliste |
-| `finalPhotos` | Bilder am Ende der vollständigen Checkliste |
-
-Neue Aufgaben erhalten neue IDs. Die Bedeutung bereits verwendeter IDs nicht nachträglich ändern. Gezählt und gespeichert werden die Endpunkte der Aufgabenbäume.
-
-## Bilder und offene Angaben
-
-Alle 17 bisherigen Bildreferenzen bleiben erhalten. Originalfotos fehlen weiterhin und werden eindeutig als Platzhalter dargestellt. Originalfotos nach `assets/` kopieren und im passenden `photos`-Eintrag von `data.js` den relativen Pfad unter `src` setzen.
-
-Noch offen sind insbesondere die Geräteanleitung für Temperatur und Licht am Kühlschrank Kasse 3, markierte Schalter-/Steckerbilder, konkrete Backofenparameter und der genaue Geräteabschluss. Die Aperol-Bar-Ausstattung und ihre Rückgabeplätze sind noch nicht detailliert vorgegeben.
-
-Die Gästegrenzen bleiben: bis 800 Gäste Alea-Kassen, bei 801–999 Gästen zusätzlich Thekenelement 1, ab 1.000 Gästen Thekenelemente 1 und 2. Thekenelement 3 ist an erwarteten hohen Sekt-/Weinverkauf gebunden. Der zusätzliche Kühlschrank an Alea-Kasse 3 ist erst bei mehr als 1.000 Gästen vorgesehen. Einsatzbedingungen werden angezeigt; eine Gästezahleingabe gibt es nicht.
-
-## Dateien und Veröffentlichung
-
-- `index.html`: Grundgerüst und drei getrennte Ansichten
-- `styles.css`: Responsive Gestaltung
-- `data.js`: sämtliche Inhalte und Bildreferenzen
+- `index.html`: Grundgerüst und drei Ansichten
+- `styles.css`: responsive Gestaltung
+- `data.js`: Checklisten, Hinweise, Anleitungen und Medienverweise
 - `state.js`: lokale Tagesstände
-- `search.js`: Suche und Filterung
-- `app.js`: Bedienung, Ansichtswechsel und Info-Dialoge
-- `CHECKLISTEN.md`: Lesefassung aller zehn Listen
-- `tests.cjs`: automatisierte Prüfungen
+- `search.js`: Suche und Filter
+- `app.js`: Bedienung, Ansichtswechsel und Mediendialoge
+- `CHECKLISTEN.md`: lesbare Fassung der aktuellen Listen
+- `tests.cjs`: Inhalts-, Speicher-, Such- und Medienprüfungen
 
-ZIP in einen neuen Ordner entpacken. Für eine lokale Vorschau im Projektordner `python3 -m http.server 8000` ausführen und `http://localhost:8000` öffnen. Kein Build oder Paketinstallation erforderlich.
+## Vorschau und Veröffentlichung
 
-Für GitHub Pages die Website-Dateien einschließlich `assets/` und `.nojekyll` ins Hauptverzeichnis des Repositorys übernehmen. Pages auf den gewünschten Branch und das Hauptverzeichnis einstellen. Relative Pfade und Ansichten über `?view=checklists`, `?view=guides` und `?view=photos` funktionieren auch unter einer Repository-Unteradresse. Es wurde keine GitHub-Veröffentlichung vorgenommen.
+Im Projektordner einen statischen Webserver starten, zum Beispiel `python -m http.server 8000`, und `http://localhost:8000` öffnen. Für GitHub Pages die Website-Dateien einschließlich `assets/` und `.nojekyll` übernehmen. Die Ansichten funktionieren auch unter einer Repository-Unteradresse.
 
-## Prüfung
-
-`node --test tests.cjs` prüft zwanzig Fälle, darunter die zehn verbleibenden Checklisten, genau vier Abbau-Listen, integrierte Garderobe/Vorbestellungen, Lagerorte, Sandwich-Bedingung, Hinweise ausschließlich als Kästen, Suche und lokale Speicherung.
-
-Im Browser geprüft: konsolidierte Übersicht, Sandwich- und Lagerhinweise sowie die mobile Abbauansicht ohne horizontalen Überlauf bei 390 Pixel Framebreite (375 Pixel nutzbar). Originalbilder, echte Mobilgeräte und die betriebliche Freigabe der abgeleiteten Abbauabläufe stehen noch aus.
+Die Überarbeitung wurde lokal vorgenommen. Eine Veröffentlichung oder ein Push zu GitHub ist damit nicht verbunden.
 
 ## Zugangsschutz
 
-Die Website hat derzeit keine PIN-Abfrage. GitHub Pages kann keine geheime serverseitige PIN-Prüfung ausführen. Dafür ist ein Hosting mit Serverfunktion nötig; die PIN darf ausschließlich dort als geheime Konfiguration hinterlegt werden. Auch ein öffentlicher Prüfwert für eine vierstellige PIN bietet keinen Schutz gegen das Durchprobieren aller Kombinationen.
+Es gibt weiterhin keine PIN-Abfrage. Eine geheime PIN-Prüfung ist mit rein statischem GitHub Pages nicht möglich. Dafür ist eine Serverfunktion mit geheimer Konfiguration nötig. Weder PIN noch öffentlicher Prüfwert werden im Projekt hinterlegt.
+
+## Prüfung
+
+`node --test tests.cjs` prüft 26 Fälle: stabile und eindeutige IDs, gültige Hilfsverweise, neue Aufbauinhalte, bestätigte Gästegrenzen, Suche, kombinierte Filter, lokale Speicherung und vorhandene Mediendateien. Zusätzlich wird die Darstellung in Desktop- und mobiler Vorschau geprüft.
+
+## Pausenvorbereitung und Vorbestellungen
+
+Am 11. November 2026 ergänzt: sechs Schritte für die gemeinsame Pausenvorbereitung von schwarzer Bar und Alea. Kaffeeabschluss nach dem Vorverkauf mit Blindsieb-Reinigung und Hinweis zu Milch-/Kaffeesatzresten in der Spülmaschine. Garderobenmaterial mit bestehendem Lagerfoto verknüpft.
+
+Vorbestellungen: Prüfung etwa zehn Minuten nach Veranstaltungsbeginn, Bon-Druck mit 80 × 150 mm Papierformat, direkte Küchenweitergabe mit Zielzeit zehn Minuten vor der Pause. Vorbereitung startet etwa 15 Minuten vor der Pause; Speisen kommen etwa zehn Minuten, Getränke fünf bis zehn Minuten vor Pausenbeginn an die Tische. Die verknüpften Anleitungen sind entsprechend aktualisiert.
