@@ -12,7 +12,7 @@ Mobile Arbeitshilfe mit sieben Checklisten für Aufbau, Pausenvorbereitung, Vorb
 - Abbau Alea: 20 Schritte. Arbeitsflächen, Fronten, Betriebsmittel und Backraum bereits vor Veranstaltungsende reinigen beziehungsweise verräumen. Nach Veranstaltungsende abschließend spülen, Spülmaschine abpumpen, Filter und Sprüharme reinigen und ausschalten.
 - Abbau Schwarze Bar: acht Hauptschritte, möglichst vor Veranstaltungsende abschließen; Transporte und Kassenübergabe mit Alea abstimmen.
 
-Aufbau und Abbau Aperol Bar sowie Abbau Getränke und Lager sind entfernt. Nicht mehr benötigte Anleitungen für Pausenvorbestellungen, Kassenstationen/Snackboxen, Kühlschrank Kasse 3 und Bar-Elemente sind entfernt. Die Kaffeeanleitung bleibt für Vorbereitung und Reinigung erhalten; am Einschalt-Schritt ist sie nicht verlinkt.
+Aufbau und Abbau Aperol Bar sowie Abbau Getränke und Lager sind entfernt. Nicht mehr benötigte Anleitungen für Pausenvorbestellungen, Kassenstationen/Snackboxen, Kühlschrank Kasse 3 und Bar-Elemente sind entfernt. Es bleiben ausschließlich die Anleitungen „Cookies aufbacken“, „Brezen aufbacken“ und „Betrieb Garderobe“ erhalten. Alle anderen Anleitungen und ihre Links an den Checklisten sind entfernt.
 
 ## Kassenverteilung als Richtwert
 
@@ -74,4 +74,4 @@ Keine PIN-Abfrage. Eine geheime PIN-Prüfung benötigt eine Serverfunktion. Wede
 
 `node --test tests.cjs` prüft 29 Fälle, unter anderem die sieben Listen, Kassenverteilung, geänderte Reihenfolgen, getrennte Backanleitungen, entfernte Hilfsverweise, gültige Medienverweise, Suche und lokale Speicherung.
 
-Weitere gelb markierte Varianten des Alea-Fotos zeigen die Kassenstationen, die Zuckeretagere mit Rührstäbchen sowie Glasvitrine und Getränkedisplay. Sie sind an den jeweiligen Aufbauschritten und in der Kaffeeanleitung verlinkt. Die angekündigte Personalansicht der Kassenstationen bleibt als eigener offener Bildplatz bestehen.
+Weitere gelb markierte Varianten des Alea-Fotos zeigen die Kassenstationen, die Zuckeretagere mit Rührstäbchen sowie Glasvitrine und Getränkedisplay. Sie sind an den jeweiligen Aufbauschritten verlinkt. Die angekündigte Personalansicht der Kassenstationen bleibt als eigener offener Bildplatz bestehen.

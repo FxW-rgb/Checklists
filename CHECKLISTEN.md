@@ -84,7 +84,6 @@ Jede Kassenstation möglichst mit zwei Mitarbeitenden besetzen: eine Person für
 - [ ] **9. Getränkeschübe und Kühlschränke prüfen**
   - Die Getränkebestände prüfen und fehlende Getränke auffüllen. Der Thekenkühlschrank enthält in der Regel Weinschorlen.
   - Den Zusatzkühlschrank an Kasse 3 einbeziehen, wenn er aufgebaut ist. Dort alle angebotenen Getränke vorgekühlt aus dem UNIKAT bereitstellen.
-  - Anleitung: Getränke und Lager
 
 - [ ] **10. Personenleitsystem aufbauen**
   - Einsatzbedingung: Bei mehr als 600 Gästen
@@ -120,7 +119,6 @@ Jede Kassenstation möglichst mit zwei Mitarbeitenden besetzen: eine Person für
   - Die Musik über die Sonos-App auf dem Alea-Kassentablet starten.
   - Wenn auch die schwarze Bar in Betrieb ist, die Musik über die Tonique-App synchronisieren. Standardauswahl: „Funky Bar“.
   - Die Beleuchtung über die entsprechende App auf Kasse 1 einschalten.
-  - Anleitung: Musik und Beleuchtung
   - Foto: Alea-Kassentablet · Standort im Backraum
 
 - [ ] **15. Preisschilder aufhängen**
@@ -132,7 +130,6 @@ Jede Kassenstation möglichst mit zwei Mitarbeitenden besetzen: eine Person für
   - Für die Zwischenreinigung der Dampflanze ein gelbes Mikrofasertuch bereitlegen.
   - Kaffee wird im Catering grundsätzlich in Pappbechern ausgegeben. Vorräte befinden sich im Backraum Alea und im Serverraum UNIKAT.
   - Im Catering werden grundsätzlich keine veganen Milchalternativen angeboten.
-  - Anleitung: Kaffeemaschine und Kaffeemühle
   - Foto: Alea · Kaffeestation · Gesamter Bereich von Zuckeretagere bis Rührstäbchen gelb markiert
   - Foto: Pappbecher · Ablage im Backraum
 
@@ -211,7 +208,6 @@ Ab etwa 650 Gästen werden ein Thekenelement mit Kühlschüben und das Kühlschr
   - Die Musik über die Tonique-App mit der Auswahl „Funky Bar“ und den Bluetooth-Lautsprecher abspielen. Der Lautsprecher liegt im Backraum Alea.
   - Die Musik mit der Alea synchronisieren.
   - Die Audimax-Beleuchtung über die Lichtschalter neben den Aufzügen einstellen. Das Catering-Ambientelicht wird über Kasse 1 gesteuert.
-  - Anleitung: Musik und Beleuchtung
 
 - [ ] **7. Steinernes Meer und Leergutrückgabe vorbereiten**
   - Rund um das Steinerne Meer Aufenthaltsbereiche mit Holzkisten, Kissen und einzelnen Tischlampen gestalten. Kisten und Kissen befinden sich in H2.
@@ -274,7 +270,6 @@ Die Getränkekühlung möglichst früh auffüllen, damit die Getränke bis Pause
 - [ ] **1. Getränkekühlung auffüllen**
   - Einsatzbedingung: Möglichst frühzeitig
   - Die Getränkekühlung an Alea und schwarzer Bar möglichst zeitnah auffüllen, damit die Getränke bis Pausenbeginn ausreichend gekühlt sind.
-  - Anleitung: Getränke und Lager
 
 - [ ] **2. Leergut und Gläser einsammeln**
   - Leere Flaschen und benutzte Gläser an den Verkaufsbereichen und den umliegenden Abstellflächen einsammeln. Leergut sortieren und Gläser zum Spülen zur Alea bringen.
@@ -295,7 +290,6 @@ Die Getränkekühlung möglichst früh auffüllen, damit die Getränke bis Pause
 - [ ] **5. Kaffeemaschine reinigen und ausschalten**
   - Kaffee wird nur im Vorverkauf vor der Veranstaltung angeboten. Die Kaffeemaschine für den Pausenverkauf nicht weiter betreiben.
   - Achtung: Größere Mengen Milch und insbesondere Kaffeesatz beeinträchtigen die Reinigungsleistung der Spülmaschine. Kaffeesatz und Milchreste vor dem Spülen entfernen.
-  - Anleitung: Kaffeemaschine und Kaffeemühle
 
   - [ ] **Abklopfbehälter entleeren und reinigen**
 

@@ -78,30 +78,6 @@ window.AUDIMAX_DATA = {
       ]
     },
     {
-      "id": "alea",
-      "title": "Alea aufbauen & aufräumen",
-      "subtitle": "Reihenfolge und wichtige Bedienhinweise",
-      "tag": "ALEA",
-      "steps": [
-        [
-          "Aufbau durchführen",
-          "Die Checkliste „Aufbau Alea“ in der angegebenen Reihenfolge abarbeiten. Die Kassenverteilung mit der Schichtleitung abstimmen und die Vorgaben im Büro beachten."
-        ],
-        [
-          "Hinweise aufrufen",
-          "Die Info-Buttons erläutern Geräte, Arbeitsplätze und Kassenstationen. Für Cookies und Brezen stehen getrennte Backanleitungen bereit."
-        ],
-        [
-          "Abbau vorbereiten",
-          "Die Checkliste „Abbau Alea“ verwenden. Arbeitsflächen, Fronten, Betriebsmittel und Backraum bereits vor Veranstaltungsende reinigen beziehungsweise verräumen."
-        ],
-        [
-          "Nach Veranstaltungsende abschließen",
-          "Flaschen und Gläser einsammeln, Gläser, Kaffeetassen und Betriebsmittel spülen, die Spülmaschine reinigen und ausschalten. Anschließend Entsorgungs- und Schließarbeiten abschließen."
-        ]
-      ]
-    },
-    {
       "id": "wardrobe",
       "title": "Betrieb Garderobe",
       "subtitle": "Jacken annehmen, kassieren und Marken zuordnen",
@@ -127,161 +103,6 @@ window.AUDIMAX_DATA = {
       "photos": [
         "wardrobe-ready",
         "wardrobe-stored"
-      ]
-    },
-    {
-      "id": "storage",
-      "title": "Getränke und Lager",
-      "subtitle": "Lagerplätze, Kernbestand und Pausennachschub",
-      "tag": "GETRÄNKE & LAGER",
-      "steps": [
-        [
-          "Material und Waren",
-          "Kassenladen, Spültücher, Mikrofasertücher, Brezen und vorbereitete italienische Baguettes aus dem UNIKAT holen. Die einzelnen Abholorte stehen am ersten Schritt der Checkliste „Aufbau Alea“."
-        ],
-        [
-          "Lagerplätze",
-          "Audimax-Keller: Getränke außer Wein sowie Leergut. Das gemeinsam genutzte Lager immer ordentlich hinterlassen. Zugang mit dem blauen Schlüsselbund mit Schlüsselchip. Getränkekühlhaus UNIKAT: Kernbestand vorgekühlter Getränke für kurzfristigen Nachschub. Entnommene Mengen anschließend immer wieder auffüllen. Rotwein befindet sich im Trockenlager UNIKAT. Kellerlager im Studierendenhaus: weiterer Wein sowie Verbrauchsmaterial wie Pappbecher und Servietten. Der Schlüssel befindet sich in der Küche des UNIKAT."
-        ],
-        [
-          "Bestände auffüllen",
-          "Getränkebestände an beiden Verkaufsbereichen prüfen und Fehlmengen ergänzen. Entnahmen aus dem vorgekühlten UNIKAT-Kernbestand anschließend immer auffüllen."
-        ],
-        [
-          "Pause vorbereiten",
-          "Den Getränkenachschub vor Veranstaltungsbeginn bereitstellen, damit die Getränke direkt nach Veranstaltungsbeginn für den Pausenverkauf eingekühlt werden können. Richtwert: etwa drei Kästen pro Getränkeart für die Alea und ein Kasten pro Getränkeart und Kasse für die schwarze Bar. Für Apfelschorle und Wasser eher weniger, für Cola und Bier gegebenenfalls mehr einplanen."
-        ]
-      ],
-      "photos": [
-        "cellar-stock-wide",
-        "unikat-cold-room",
-        "unikat-dry-storage"
-      ]
-    },
-    {
-      "id": "service",
-      "title": "Verkauf und Pausenvorbereitung",
-      "subtitle": "Gemeinsam vorbereiten: schwarze Bar und Alea",
-      "tag": "VERKAUF",
-      "steps": [
-        [
-          "Getränke zuerst kühlen",
-          "Die Getränkekühlung an Alea und schwarzer Bar möglichst zeitnah auffüllen, damit die Getränke bis Pausenbeginn ausreichend gekühlt sind."
-        ],
-        [
-          "Leergut und Gläser",
-          "Leere Flaschen und benutzte Gläser an den Verkaufsbereichen und den umliegenden Abstellflächen einsammeln. Leergut sortieren und Gläser zum Spülen zur Alea bringen. Die eingesammelten Gläser spülen, polieren und für den Pausenverkauf bereitstellen."
-        ],
-        [
-          "Snacks ergänzen",
-          "Die Snackboxen für den Pausenverkauf auffüllen. Den Brezenbestand prüfen und fehlende Brezen rechtzeitig aufbacken."
-        ],
-        [
-          "Kaffeeabschluss",
-          "Kaffee wird nur im Vorverkauf vor der Veranstaltung angeboten. Die Kaffeemaschine für den Pausenverkauf nicht weiter betreiben. Achtung: Größere Mengen Milch und insbesondere Kaffeesatz beeinträchtigen die Reinigungsleistung der Spülmaschine. Kaffeesatz und Milchreste vor dem Spülen entfernen."
-        ],
-        [
-          "Garderobenmaterial verstauen",
-          "Garderobenaufsteller und Garderobenbox mit Hinweisschildern und Garderobenmarken unter der Theke verstauen. Die Anordnung mit dem Zielbild abgleichen."
-        ]
-      ],
-      "photos": [
-        "wardrobe-stored"
-      ]
-    },
-    {
-      "id": "coffee",
-      "title": "Kaffeemaschine und Kaffeemühle",
-      "subtitle": "Einschalten, vorbereiten und nach dem Vorverkauf reinigen",
-      "tag": "ALEA",
-      "steps": [
-        [
-          "Einschalten und aufheizen",
-          "Kaffeemaschine und Kaffeemühle einschalten. Etwa 15 Minuten Vorheizzeit einplanen. Temperaturen von Brühgruppen und Boiler über „Funktion → Information → Temperaturen“ abrufen."
-        ],
-        [
-          "Team-Arbeitsplatz vorbereiten",
-          "Ein gelbes Mikrofasertuch für die Zwischenreinigung der Dampflanze bereitlegen. Kaffee wird im Catering grundsätzlich in Pappbechern ausgegeben. Vegane Milchalternativen werden grundsätzlich nicht angeboten."
-        ],
-        [
-          "Gästeplatz vorbereiten",
-          "Zucker, Rührstäbchen und Strohhalme zentral bereitstellen. Pappbechervorräte befinden sich im Backraum Alea und im Serverraum UNIKAT."
-        ],
-        [
-          "Nach dem Vorverkauf reinigen und ausschalten",
-          "Abklopfbehälter entleeren und reinigen. Die Kaffeemaschine mit Blindsieb nach der vorhandenen Geräteeinweisung reinigen. Ablaufschale, Siebträger, Milchkännchen und Dampflanze reinigen. Anschließend die Kaffeemaschine ausschalten. Kaffee wird in der Pause nicht angeboten."
-        ],
-        [
-          "Spülmaschine sauber halten",
-          "Achtung: Größere Mengen Milch und insbesondere Kaffeesatz beeinträchtigen die Reinigungsleistung der Spülmaschine. Kaffeesatz und Milchreste vor dem Spülen entfernen."
-        ]
-      ],
-      "photos": [
-        "alea-coffee-marked",
-        "paper-cups"
-      ]
-    },
-    {
-      "id": "music",
-      "title": "Musik und Beleuchtung",
-      "subtitle": "Sonos, Tonique und Lichtsteuerung",
-      "tag": "MUSIK",
-      "steps": [
-        [
-          "Alea",
-          "Musik über die Sonos-App auf dem Alea-Kassentablet starten."
-        ],
-        [
-          "Beide Verkaufsbereiche synchronisieren",
-          "Wenn die schwarze Bar in Betrieb ist, über Tonique synchronisieren. Standardauswahl: „Funky Bar“. Den Bluetooth-Lautsprecher aus dem Backraum Alea an der schwarzen Bar einsetzen."
-        ],
-        [
-          "Beleuchtung einstellen",
-          "Catering-Beleuchtung über die entsprechende App auf Kasse 1 steuern. Die Lichtschalter für die Audimax-Beleuchtung befinden sich neben den Aufzügen."
-        ]
-      ],
-      "photos": [
-        "alea-register-location"
-      ]
-    },
-    {
-      "id": "presale-flow",
-      "title": "Verkauf vor der Veranstaltung",
-      "subtitle": "Verkaufsbereitschaft und laufender Betrieb",
-      "tag": "VERKAUF",
-      "steps": [
-        [
-          "Kasse übernehmen",
-          "Verkaufsbereitschaft, Kassenstation und Warenangebot prüfen. Die Kassentablets können auf der Theke oder auf der Arbeitsfläche stehen – je nachdem, wo sie sich am ergonomischsten bedienen lassen. Nur das EC-Lesegerät muss für Gäste zugänglich auf der Theke bereitliegen."
-        ],
-        [
-          "Nachschub abstimmen",
-          "Bestände im Blick behalten und fehlende Getränke mit dem Getränke-Team abstimmen."
-        ],
-        [
-          "Vorbestellungen bearbeiten",
-          "Bestellungen eindeutig zuordnen und die erfolgte Ausgabe im vorgesehenen System dokumentieren."
-        ]
-      ]
-    },
-    {
-      "id": "break-sale-flow",
-      "title": "Pausenverkauf",
-      "subtitle": "Verkauf und Ausgabe während der Pause",
-      "tag": "VERKAUF",
-      "steps": [
-        [
-          "Verkauf übernehmen",
-          "Den vorbereiteten Verkaufsbereich besetzen und nach dem betrieblichen Kassenablauf verkaufen."
-        ],
-        [
-          "Vorbestellungen ausgeben",
-          "Bestellreferenz, Artikel und Ausgabestatus prüfen. Die tatsächlich erfolgte Übergabe im System bestätigen."
-        ],
-        [
-          "Arbeitsbereich betreuen",
-          "Nachschub abstimmen, Leergut sammeln und Arbeitsflächen geordnet halten. Offene Punkte an das Abbauteam übergeben."
-        ]
       ]
     }
   ],
@@ -466,7 +287,6 @@ window.AUDIMAX_DATA = {
             "Die Getränkebestände prüfen und fehlende Getränke auffüllen. Der Thekenkühlschrank enthält in der Regel Weinschorlen.",
             "Den Zusatzkühlschrank an Kasse 3 einbeziehen, wenn er aufgebaut ist. Dort alle angebotenen Getränke vorgekühlt aus dem UNIKAT bereitstellen."
           ],
-          "guide": "storage",
           "order": 9
         },
         {
@@ -546,7 +366,6 @@ window.AUDIMAX_DATA = {
             "Wenn auch die schwarze Bar in Betrieb ist, die Musik über die Tonique-App synchronisieren. Standardauswahl: „Funky Bar“.",
             "Die Beleuchtung über die entsprechende App auf Kasse 1 einschalten."
           ],
-          "guide": "music",
           "photos": [
             "alea-register-location"
           ],
@@ -572,7 +391,6 @@ window.AUDIMAX_DATA = {
             "Kaffee wird im Catering grundsätzlich in Pappbechern ausgegeben. Vorräte befinden sich im Backraum Alea und im Serverraum UNIKAT.",
             "Im Catering werden grundsätzlich keine veganen Milchalternativen angeboten."
           ],
-          "guide": "coffee",
           "photos": [
             "alea-coffee-marked",
             "paper-cups"
@@ -745,7 +563,6 @@ window.AUDIMAX_DATA = {
             "Die Musik mit der Alea synchronisieren.",
             "Die Audimax-Beleuchtung über die Lichtschalter neben den Aufzügen einstellen. Das Catering-Ambientelicht wird über Kasse 1 gesteuert."
           ],
-          "guide": "music",
           "order": 6
         },
         {
@@ -861,7 +678,6 @@ window.AUDIMAX_DATA = {
             "Die Getränkekühlung an Alea und schwarzer Bar möglichst zeitnah auffüllen, damit die Getränke bis Pausenbeginn ausreichend gekühlt sind."
           ],
           "condition": "Möglichst frühzeitig",
-          "guide": "storage",
           "order": 1
         },
         {
@@ -910,7 +726,6 @@ window.AUDIMAX_DATA = {
             "Kaffee wird nur im Vorverkauf vor der Veranstaltung angeboten. Die Kaffeemaschine für den Pausenverkauf nicht weiter betreiben.",
             "Achtung: Größere Mengen Milch und insbesondere Kaffeesatz beeinträchtigen die Reinigungsleistung der Spülmaschine. Kaffeesatz und Milchreste vor dem Spülen entfernen."
           ],
-          "guide": "coffee",
           "children": [
             {
               "id": "pause-coffee-grounds",
