@@ -1,66 +1,77 @@
 # audimax events – Checklisten
 
-Mobile Arbeitshilfe für Aufbau, Pausenvorbereitung und Abbau. Eine statische Website mit Suche, kombinierbaren Filtern, lokalen Tagesständen, Anleitungen, Fotos und Videos. Kein Build und keine Paketinstallation erforderlich.
+Mobile Arbeitshilfe mit sieben Checklisten für Aufbau, Pausenvorbereitung, Vorbestellungen und Abbau. Eine statische Website mit Suche, Filtern, lokalen Tagesständen, Fotos und Anleitungsvideos. Kein Build erforderlich.
 
-## Inhalte
+## Aktueller Stand vom 12. November 2026
 
-Die drei Aufbaulisten für Alea, schwarze Bar und Getränke/Lager wurden am 10. November 2026 anhand der bereitgestellten Aufbauvorlage überarbeitet. Die übrigen Checklisten bleiben erhalten. Insgesamt gibt es zehn Checklisten.
+- Aufbau Alea: 21 Hauptschritte. Materialabholung und Kassenverteilung mit der Schichtleitung abstimmen; Bürovorgaben haben Vorrang. Kassentablet und EC-Gerät müssen dieselbe Nummer haben. Kassenladen an der Alea aufsteigend, an der schwarzen Bar mit den höchsten eingesetzten Nummern zuordnen.
+- Aufbau Schwarze Bar und Stehtische: acht Hauptschritte. Ein Kühlelement ab etwa 650 Gästen, zwei ab etwa 1.000 Gästen. Tablets ergonomisch platzieren; das EC-Lesegerät muss für Gäste zugänglich auf der Theke liegen.
+- Vorbereitung Getränke und Lager: drei Schritte für Bestandsprüfung, Auffüllen und Pausennachschub.
+- Pausenvorbereitung: sechs Hauptschritte für beide Teams gemeinsam. Kaffee nur im Vorverkauf; Reinigung des Abklopfbehälters und Kaffeeabschluss nach dem Vorverkauf.
+- Pausenvorbestellungen: fünf Schritte für Prüfung/Druck, Küchenabstimmung, Getränkevorbereitung, Speisenabholung und Tischbelieferung mit Vollständigkeitskontrolle.
+- Abbau Alea: 20 Schritte. Arbeitsflächen, Fronten, Betriebsmittel und Backraum bereits vor Veranstaltungsende reinigen beziehungsweise verräumen. Nach Veranstaltungsende abschließend spülen, Spülmaschine abpumpen, Filter und Sprüharme reinigen und ausschalten.
+- Abbau Schwarze Bar: acht Hauptschritte, möglichst vor Veranstaltungsende abschließen; Transporte und Kassenübergabe mit Alea abstimmen.
 
-- Alea: Material und Waren aus dem UNIKAT, Geräte, Backwaren, Kassenstationen, Personenleitsystem und Garderobe; 21 Hauptschritte mit einzelnen Unteraufgaben.
-- Schwarze Bar und Stehtische: acht Hauptschritte; ein Kühlelement ab etwa 650 Gästen, zwei ab etwa 1.000 Gästen. Die widersprüchliche Kassenverteilung aus der Vorlage wurde nach Rücksprache nicht übernommen. Alea nutzt Kassen 1–3, die schwarze Bar Kassen 4–5.
-- Getränke und Lager: Bestände prüfen, Fehlmengen auffüllen und Pausennachschub bereitstellen. Entnahmen aus dem gekühlten UNIKAT-Kernbestand werden wieder aufgefüllt. Richtwert: drei Kästen pro Getränkeart für Alea und ein Kasten pro Getränkeart und Kasse an der schwarzen Bar.
+Aufbau und Abbau Aperol Bar sowie Abbau Getränke und Lager sind entfernt. Nicht mehr benötigte Anleitungen für Pausenvorbestellungen, Kassenstationen/Snackboxen, Kühlschrank Kasse 3 und Bar-Elemente sind entfernt. Die Kaffeeanleitung bleibt für Vorbereitung und Reinigung erhalten; am Einschalt-Schritt ist sie nicht verlinkt.
 
-Der Zusatzkühlschrank an Alea-Kasse 3 ist für mehr als 1.000 Gäste vorgesehen. Das Personenleitsystem wird bei mehr als 600 Gästen aufgebaut und darf aus Brandschutzgründen nur bis zur ersten Betonsäule in den Gang reichen.
+## Kassenverteilung als Richtwert
 
-Abbau Alea wurde am 11. November 2026 anhand der neuen Vorlage mit 18 Hauptschritten überarbeitet. Die vorbereitenden Schritte 01–09 und die Abschlussarbeiten 10–18 sind mit Zeitbedingungen gekennzeichnet. Garderobe, Kaffeeabschluss und Restwaren bleiben als Unteraufgaben erhalten. Auch Abbau Schwarze Bar wurde anhand der neuen Vorlage mit acht Hauptschritten überarbeitet: möglichst vor Veranstaltungsende abschließen, Getränkebestand vor der Einlagerung auffüllen und Kassen sowie Betriebsmittel zur Alea übergeben. Vorbestellungsabschluss und Rückgabe von Kissen/Kisten bleiben als Unteraufgaben erhalten. Nur Abbau Aperol Bar und Getränke/Lager bleiben Entwürfe. Die Aperol-Ausstattung und konkrete Geräteabschlussverfahren sind weiterhin zu ergänzen.
+Gästeaufkommen, Personaleinsatz und Art der Veranstaltung gemeinsam berücksichtigen. Bei geballtem Gästeaufkommen mehr Stationen einplanen. Maßgeblich bleiben die Vorgaben im Büro.
 
-## Bedienung
+| Gästezahl | Kassenladen | Verteilung |
+| --- | --- | --- |
+| Unter 650 | 1–2 | Beide an der Alea |
+| 650–850 | 1–3 | Zwei an der Alea; Kassenlade 3 an der schwarzen Bar mit Kassentablet und EC-Gerät 4 |
+| 851–1.000 | 1–4 | Drei an der Alea, eine an der schwarzen Bar |
+| Mehr als 1.000 | 1–5 | Drei an der Alea, zwei an der schwarzen Bar |
 
-Die erste Filterzeile wählt alle oder nur offene Aufgaben. Die zweite Zeile schränkt nach Aufbau, Pausenvorbereitung oder Abbau ein; erneutes Antippen einer ausgewählten Phase hebt diese Einschränkung auf. Suche und Filter lassen sich kombinieren.
+## Backanleitungen
 
-Jeder Arbeitsschritt hat einen Info-Button für Hinweise, Bilder und verknüpfte Anleitungen. Die Bilderübersicht gliedert echte Fotos nach Verkaufsbereichen, Lagerplätzen und aufgeräumten Bereichen. Detailfotos können in voller Größe geöffnet werden. Für Backwaren stehen vier Anleitungsvideos mit Wiedergabesteuerung bereit. Videos laden erst bei Nutzung und pausieren beim Schließen oder Wechseln des Dialogs.
+Cookies und Brezen haben getrennte Anleitungen mit jeweils passenden Videos und der fotografierten Programmübersicht. Die Einzelschritte wurden aus den vier bereitgestellten Videos und dem Bedienerblatt abgeleitet.
 
-## Speicherung
+- Cookies: Programm 11, 160 °C, 13 Minuten; Teigportionen auf der markierten Backmatte verteilen und nach dem Backen auskühlen lassen.
+- Brezen: Programm 1, 210 °C, 15 Minuten; Salzen durch Bestreuen oder durch kurzes Eindrücken der Oberseite in Salz entsprechend den beiden Varianten.
 
-Arbeitsstände bleiben lokal im Browser, nach Datum getrennt. Der aktuelle Tag wird in Europe/Berlin bestimmt. Die Datumsauswahl und der normale Speicherhinweis sind ausgeblendet; Speicherfehler werden weiterhin angezeigt. Es gibt keine geräteübergreifende Synchronisierung.
+Die Programmeinstellungen sind im jeweiligen Bedienvideo sichtbar. Bereitschaftssignal/OK-Anzeige, Türtaste und START/STOP entsprechen dem fotografierten Bedienerblatt. Es wurden keine zusätzlichen, nicht belegten Geräteparameter ergänzt.
 
-Der Speicherschlüssel `audimax-workdays-v2-local` bleibt unverändert. Unveränderte Aufgaben behalten ihre IDs. Neu zusammengefasste oder wesentlich erweiterte Arbeitsumfänge haben neue IDs, damit alte Häkchen nicht als vollständig erledigte neue Aufgaben gelten. Nicht mehr angezeigte Aufgaben bleiben in vorhandenen Browserdaten erhalten.
+## Bedienung und Speicherung
 
-## Bilder und Videos
+Erste Filterzeile: alle oder nur offene Aufgaben. Zweite Zeile: Aufbau, Pausenvorbereitung oder Abbau; erneutes Antippen hebt die Phasenauswahl auf. Suche und Filter sind kombinierbar.
 
-37 ausgewählte Originalfotos liegen unter `assets/photos/`. Sie wurden korrekt ausgerichtet, auf höchstens 1.800 Pixel Kantenlänge verkleinert und ohne Übernahme von EXIF-Metadaten gespeichert. Bildausschnitte und betriebliche Details wurden nicht künstlich verändert. Doppelte Fotos, Alarmanlagenaufnahmen und die nicht benötigte Pustet-Aufbauaufnahme wurden nicht übernommen.
+Die Info-Buttons öffnen Hinweise, Referenzbilder und verknüpfte Anleitungen. Ein Schritt kann mehrere Anleitungen enthalten. Videos laden erst bei Nutzung und pausieren beim Schließen des Dialogs. Fotos lassen sich in voller Größe öffnen.
 
-Vier MP4-Videos unter `assets/videos/` wurden für die Website mit maximal 960 Pixel Kantenlänge und H.264/AAC neu codiert. Zusammen sind sie etwa 23 MB statt rund 313 MB groß. Die Originaldateien im Download-Ordner bleiben unverändert. Kein einzelnes Video überschreitet die GitHub-Dateigrößengrenze.
+Arbeitsstände bleiben lokal im Browser und sind nach Datum getrennt. Aktueller Tag: Europe/Berlin. Datumsauswahl und normaler Speicherhinweis sind ausgeblendet; Speicherfehler bleiben sichtbar. Keine geräteübergreifende Synchronisierung. Speicherschlüssel: `audimax-workdays-v2-local`.
 
-Wo keine passende Aufnahme vorliegt, bleibt am jeweiligen Detailhinweis ein ausdrücklicher Bildplatz. Fehlende Bilder erscheinen nicht als leere Karten in der Bilderübersicht. Die fotografierte Backanleitung und die Videos ersetzen keine erfundenen Geräteparameter; konkrete Einstellwerte werden nicht aus undeutlichen Bildstellen abgeleitet.
+Unveränderte Aufgaben behalten ihre IDs; neue Arbeitsumfänge haben neue IDs. Entfernte Aufgaben bleiben in gespeicherten Browserdaten erhalten, werden aber nicht angezeigt.
 
-## Dateien
+## Medien
 
-- `index.html`: Grundgerüst und drei Ansichten
+Die Bilderübersicht enthält 43 Bildverweise mit vorhandenen Dateien, einschließlich der markierten Preistafeln und des Pustet-Aufbaus. Das bestehende Foto „Getränkelager Audimax · Lagerplätze“ dient zugleich als Referenz für Leergutpaletten. Neue Geräte- und Kassenstationsfotos sind als offene Bildplätze gekennzeichnet.
+
+Das Originalfoto der Preistafeln bleibt erhalten. Eine zusätzliche, mit dem eingebauten Bildwerkzeug annotierte Fassung liegt unter `assets/photos/alea-prices-marked.png`. Der Bildauftrag und die Quellen sind in `assets/README.md` dokumentiert.
+
+Vier komprimierte MP4-Videos liegen unter `assets/videos/` (H.264/AAC, maximal 960 Pixel Kantenlänge, zusammen rund 23 MB). Originaldateien im Download-Ordner bleiben unverändert.
+
+## Dateien und Vorschau
+
+- `index.html`: drei Ansichten
+- `data.js`: aktuelle Inhalte und Medienverweise
+- `app.js`: Bedienung und Dialoge
 - `styles.css`: responsive Gestaltung
-- `data.js`: Checklisten, Hinweise, Anleitungen und Medienverweise
-- `state.js`: lokale Tagesstände
-- `search.js`: Suche und Filter
-- `app.js`: Bedienung, Ansichtswechsel und Mediendialoge
-- `CHECKLISTEN.md`: lesbare Fassung der aktuellen Listen
-- `tests.cjs`: Inhalts-, Speicher-, Such- und Medienprüfungen
+- `state.js` und `search.js`: Speicherung, Suche und Filter
+- `CHECKLISTEN.md`: vollständige Lesefassung
+- `tests.cjs`: automatisierte Prüfungen
 
-## Vorschau und Veröffentlichung
+Im Projektordner einen statischen Webserver starten, zum Beispiel `python -m http.server 8000`, und `http://localhost:8000` öffnen. Für GitHub Pages die Website-Dateien einschließlich `assets/` und `.nojekyll` übernehmen. Ansichten funktionieren auch unter einer Repository-Unteradresse.
 
-Im Projektordner einen statischen Webserver starten, zum Beispiel `python -m http.server 8000`, und `http://localhost:8000` öffnen. Für GitHub Pages die Website-Dateien einschließlich `assets/` und `.nojekyll` übernehmen. Die Ansichten funktionieren auch unter einer Repository-Unteradresse.
-
-Die Überarbeitung wurde lokal vorgenommen. Eine Veröffentlichung oder ein Push zu GitHub ist damit nicht verbunden.
+Die Änderungen wurden lokal vorgenommen; kein Push und keine Veröffentlichung.
 
 ## Zugangsschutz
 
-Es gibt weiterhin keine PIN-Abfrage. Eine geheime PIN-Prüfung ist mit rein statischem GitHub Pages nicht möglich. Dafür ist eine Serverfunktion mit geheimer Konfiguration nötig. Weder PIN noch öffentlicher Prüfwert werden im Projekt hinterlegt.
+Keine PIN-Abfrage. Eine geheime PIN-Prüfung benötigt eine Serverfunktion. Weder PIN noch öffentlicher Prüfwert sind hinterlegt.
 
 ## Prüfung
 
-`node --test tests.cjs` prüft 26 Fälle: stabile und eindeutige IDs, gültige Hilfsverweise, neue Aufbauinhalte, bestätigte Gästegrenzen, Suche, kombinierte Filter, lokale Speicherung und vorhandene Mediendateien. Zusätzlich wird die Darstellung in Desktop- und mobiler Vorschau geprüft.
+`node --test tests.cjs` prüft 29 Fälle, unter anderem die sieben Listen, Kassenverteilung, geänderte Reihenfolgen, getrennte Backanleitungen, entfernte Hilfsverweise, gültige Medienverweise, Suche und lokale Speicherung.
 
-## Pausenvorbereitung und Vorbestellungen
-
-Am 11. November 2026 ergänzt: sechs Schritte für die gemeinsame Pausenvorbereitung von schwarzer Bar und Alea. Kaffeeabschluss nach dem Vorverkauf mit Blindsieb-Reinigung und Hinweis zu Milch-/Kaffeesatzresten in der Spülmaschine. Garderobenmaterial mit bestehendem Lagerfoto verknüpft.
-
-Vorbestellungen: Prüfung etwa zehn Minuten nach Veranstaltungsbeginn, Bon-Druck mit 80 × 150 mm Papierformat, direkte Küchenweitergabe mit Zielzeit zehn Minuten vor der Pause. Vorbereitung startet etwa 15 Minuten vor der Pause; Speisen kommen etwa zehn Minuten, Getränke fünf bis zehn Minuten vor Pausenbeginn an die Tische. Die verknüpften Anleitungen sind entsprechend aktualisiert.
+Weitere gelb markierte Varianten des Alea-Fotos zeigen die Kassenstationen, die Zuckeretagere mit Rührstäbchen sowie Glasvitrine und Getränkedisplay. Sie sind an den jeweiligen Aufbauschritten und in der Kaffeeanleitung verlinkt. Die angekündigte Personalansicht der Kassenstationen bleibt als eigener offener Bildplatz bestehen.

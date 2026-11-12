@@ -2,96 +2,79 @@
 window.AUDIMAX_DATA = {
   "guides": [
     {
-      "id": "pretzels",
-      "title": "Brezen und Cookies aufbacken",
-      "subtitle": "Backanleitung und vier Anleitungsvideos",
+      "id": "cookies",
+      "title": "Cookies aufbacken",
+      "subtitle": "Backmatte belegen und mit Programm 11 backen",
       "tag": "BACKRAUM",
-      "warning": "Die Voreinstellung passend zur Backware wählen. Die Programmauswahl ist in der fotografierten Backanleitung und den Videos erläutert.",
       "steps": [
         [
-          "Reihenfolge planen",
-          "Wenn Cookies angeboten werden, diese zuerst aufbacken und anschließend auskühlen lassen. Danach die Brezen vorbereiten."
+          "Cookies zuerst einplanen",
+          "Cookies vor den Brezen aufbacken, damit sie vor dem Verkauf auskühlen können."
         ],
         [
-          "Backöfen vorbereiten",
-          "Die passende Voreinstellung anhand der Backanleitung und des jeweiligen Anleitungsvideos wählen."
+          "Backmatte belegen",
+          "Die Cookie-Teigportionen mit Abstand auf die markierten Kreise der Backmatte setzen. Die Matte liegt auf einem Backblech."
         ],
         [
-          "Backwaren bereitstellen",
-          "Cookies auf Servierplatten anrichten. Die Brezen für die vorgesehenen Kassenstationen bereitstellen."
+          "Ofen vorheizen",
+          "Ofen einschalten und Programm 11 wählen. Im Cookie-Video werden P11, 160 °C und 13 Minuten angezeigt. Auf das Bereitschaftssignal und die OK-Anzeige warten."
+        ],
+        [
+          "Backen starten",
+          "Die Tür über die Türtaste öffnen, das Blech einschieben und die Tür schließen. Den Backvorgang mit START/STOP starten."
+        ],
+        [
+          "Entnehmen und auskühlen lassen",
+          "Nach dem Endsignal das Blech mit geeignetem Hitzeschutz entnehmen. Die Cookies auskühlen lassen und anschließend auf Servierplatten bereitstellen."
         ]
       ],
       "photos": [
-        "baking-instructions",
-        "ovens"
+        "ovens",
+        "baking-instructions"
       ],
       "videos": [
-        "cookies",
+        "cookies"
+      ]
+    },
+    {
+      "id": "pretzels",
+      "title": "Brezen aufbacken",
+      "subtitle": "Belegen, salzen und mit Programm 1 backen",
+      "tag": "BACKRAUM",
+      "steps": [
+        [
+          "Backblech vorbereiten",
+          "Eine Backmatte aus der Ablage „Backmatten“ auf das Blech legen. Die Brezen mit Abstand auf dem Blech verteilen."
+        ],
+        [
+          "Brezen salzen · Variante 1",
+          "Wie im ersten Video etwas grobes Salz gleichmäßig auf die Oberseite der Brezen streuen."
+        ],
+        [
+          "Brezen salzen · Variante 2",
+          "Alternativ wie im zweiten Video die Oberseite jeder Breze kurz in das bereitgestellte Salz drücken. Anschließend mit der gesalzenen Seite nach oben auf das Blech legen."
+        ],
+        [
+          "Ofen vorheizen",
+          "Ofen einschalten und die Produkttaste für Programm 1 wählen. Im Bedienvideo werden P1, 210 °C und 15 Minuten angezeigt. Auf das Bereitschaftssignal und die leuchtende OK-Anzeige warten."
+        ],
+        [
+          "Blech einschieben und backen",
+          "Die Tür über die Türtaste öffnen, das Blech einschieben und die Tür schließen. Den Backvorgang mit START/STOP starten."
+        ],
+        [
+          "Brezen entnehmen",
+          "Nach dem Endsignal die Brezen mit geeignetem Hitzeschutz entnehmen und für den Verkauf bereitstellen. Für weitere Bleche das Programm erneut wählen und die Bereitschaftsanzeige abwarten."
+        ]
+      ],
+      "photos": [
+        "ovens",
+        "baking-instructions"
+      ],
+      "videos": [
         "pretzels-variant-1",
         "pretzels-variant-2",
         "oven-operation"
-      ]
-    },
-    {
-      "id": "online",
-      "title": "Pausenvorbestellungen",
-      "subtitle": "Prüfen, drucken und rechtzeitig an die Tische bringen",
-      "tag": "VORBESTELLUNGEN",
-      "steps": [
-        [
-          "Vorbestellungen prüfen · 10 Minuten nach Veranstaltungsbeginn",
-          "Die Vorbestellungen am PC im Backraum Alea aufrufen."
-        ],
-        [
-          "Bons drucken",
-          "Auf audimax-events.de den Admin-Bereich öffnen: Vorbestellungen → Druckansicht → Bon 80 mm. In den Druckeinstellungen das Papierformat 80 × 150 mm wählen und drucken."
-        ],
-        [
-          "Küche informieren",
-          "Vorbestellungen für Pinsen und Antipasti direkt an die Küche weitergeben. Als Zielzeit zehn Minuten vor Pausenbeginn angeben."
-        ],
-        [
-          "Vorbereitung starten · 15 Minuten vor Pausenbeginn",
-          "Die Getränke auf Tabletts bereitstellen: Flaschen öffnen, die Kronkorken jedoch auf den Flaschen belassen. Die Tabletts etwa fünf bis zehn Minuten vor Pausenbeginn an die zugehörigen Tische bringen."
-        ],
-        [
-          "Speisen abholen · 10 Minuten vor Pausenbeginn",
-          "Vorbestellte Pinsen und Antipasti etwa zehn Minuten vor Pausenbeginn aus der Küche holen und ebenfalls an die Tische bringen. Servietten dazulegen."
-        ],
-        [
-          "Tische kontrollieren",
-          "Jeder Tisch mit Vorbestellung muss den passenden Tischaufsteller mit Tischnummer haben. Nach Möglichkeit eine eingeschaltete Tischlampe dazustellen."
-        ]
-      ],
-      "photos": [
-        "catering-register-storage",
-        "preorder-tables",
-        "table-signs"
-      ]
-    },
-    {
-      "id": "bar-elements",
-      "title": "Schwarze Bar: Elemente",
-      "subtitle": "Elemente, Lagerplätze und Gästeaufkommen",
-      "tag": "SCHWARZE BAR",
-      "steps": [
-        [
-          "Elemente zuordnen",
-          "Die schwarze Bar wird im Steinernen Meer aufgebaut. Sie besteht aus einem rückwärtigen Kühlschrankelement, zwei Thekenelementen mit Kühlschüben und einem Mittelelement mit Arbeitsfläche für Sekt und Wein."
-        ],
-        [
-          "Nach Gästeaufkommen aufbauen",
-          "Ab etwa 650 Gästen werden ein Thekenelement mit Kühlschüben und das Kühlschrankelement eingesetzt. Ab etwa 1.000 Gästen werden beide Thekenelemente mit Kühlschüben aufgebaut. Das Mittelelement ergänzt die Sekt- und Weinstation entsprechend dem Einsatzplan."
-        ],
-        [
-          "Lagerplätze",
-          "Kühlschrank- und Mittelelement stehen in H2. Die zwei Thekenelemente mit Kühlschüben befinden sich im Audimax-Lager Galerie."
-        ]
-      ],
-      "photos": [
-        "h2-elements",
-        "black-one-element",
-        "black-two-ready"
       ]
     },
     {
@@ -102,57 +85,43 @@ window.AUDIMAX_DATA = {
       "steps": [
         [
           "Aufbau durchführen",
-          "Die Checkliste „Aufbau Alea“ in der angegebenen Reihenfolge abarbeiten. Die Garderobe ist darin integriert; die Einsatzbedingung steht am Arbeitsschritt."
+          "Die Checkliste „Aufbau Alea“ in der angegebenen Reihenfolge abarbeiten. Die Kassenverteilung mit der Schichtleitung abstimmen und die Vorgaben im Büro beachten."
         ],
         [
           "Hinweise aufrufen",
-          "Die Info-Buttons erläutern Tor, Kühlung, Kaffeevorbereitung und Kassenzuordnung."
+          "Die Info-Buttons erläutern Geräte, Arbeitsplätze und Kassenstationen. Für Cookies und Brezen stehen getrennte Backanleitungen bereit."
         ],
         [
           "Abbau vorbereiten",
-          "Die Checkliste „Abbau Alea (inkl. Garderobe)“ verwenden. Die ersten neun Schritte können vor Veranstaltungsende erledigt werden, soweit der laufende Betrieb dies zulässt. Backöfen frühzeitig ausschalten und vor der Reinigung ausreichend abkühlen lassen."
+          "Die Checkliste „Abbau Alea“ verwenden. Arbeitsflächen, Fronten, Betriebsmittel und Backraum bereits vor Veranstaltungsende reinigen beziehungsweise verräumen."
         ],
         [
           "Nach Veranstaltungsende abschließen",
-          "Die Schritte 10–18 durchführen: Flaschen und Gläser einsammeln, Flächen und Backraum reinigen, Müll und Leergut entsorgen, Tücher und Rollwagen zurückbringen und die Alea abschließen."
-        ]
-      ]
-    },
-    {
-      "id": "aperol",
-      "title": "Aperol Bar aufbauen & aufräumen",
-      "subtitle": "Ausstattung und Arbeitsbereich",
-      "tag": "APEROL BAR",
-      "warning": "Entwurf: Aufbau, Ausstattung, Rezeptur, Mengen und Lagerplätze noch ergänzen.",
-      "steps": [
-        [
-          "Vorbereiten",
-          "Bar standsicher aufbauen und reinigen. Vorgesehene Getränke, Gläser und Arbeitsmittel nach betrieblicher Vorgabe bereitstellen."
-        ],
-        [
-          "Abschließen",
-          "Restbestände nach Vorgabe versorgen. Bar und Arbeitsmittel reinigen und an den vorgesehenen Plätzen lagern."
+          "Flaschen und Gläser einsammeln, Gläser, Kaffeetassen und Betriebsmittel spülen, die Spülmaschine reinigen und ausschalten. Anschließend Entsorgungs- und Schließarbeiten abschließen."
         ]
       ]
     },
     {
       "id": "wardrobe",
       "title": "Betrieb Garderobe",
-      "subtitle": "Aufbau, Betrieb und Abschluss",
+      "subtitle": "Jacken annehmen, kassieren und Marken zuordnen",
       "tag": "GARDEROBE",
-      "warning": "Preise, Kassenablauf und das Verfahren für nicht abgeholte Gegenstände sind noch zu ergänzen.",
       "steps": [
         [
-          "Aufbau",
-          "Aufsteller und Garderobenmarken unter der Thekenzeile im Garderobenbereich holen. Garderobenaufsteller und Strahler nahe Kasse 3 platzieren."
+          "Jacken entgegennehmen",
+          "Bis zu zwei Jacken pro Garderobenmarke entgegennehmen."
         ],
         [
-          "Betrieb",
-          "Vor Veranstaltungsbeginn betreut Kasse 3 die Garderobe. Parallel ist Getränkeverkauf möglich. Je Haken und Garderobenmarke können bis zu zwei Jacken angenommen werden. Gegenstände nach dem betrieblichen Zuordnungssystem ausgeben."
+          "Abkassieren",
+          "Im Kassensystem unter „Garderobe“ den Artikel „Garderobe“ auswählen und abkassieren."
         ],
         [
-          "Abschluss",
-          "Nicht abgeholte Gegenstände nach Vorgabe übergeben. Arbeitsbereich aufräumen und Garderobenmaterial unter der Theke verstauen."
+          "Marke ausgeben",
+          "Teil 1 der Garderobenmarke an den Gast ausgeben."
+        ],
+        [
+          "Jacken aufhängen",
+          "Teil 2 der Garderobenmarke zusammen mit den zugehörigen Jacken aufhängen."
         ]
       ],
       "photos": [
@@ -240,7 +209,7 @@ window.AUDIMAX_DATA = {
         ],
         [
           "Nach dem Vorverkauf reinigen und ausschalten",
-          "Kaffeesatz-Einlage entleeren und reinigen. Die Kaffeemaschine mit Blindsieb nach der vorhandenen Geräteeinweisung reinigen. Ablaufschale, Siebträger, Milchkännchen und Dampflanze reinigen. Anschließend die Kaffeemaschine ausschalten. Kaffee wird in der Pause nicht angeboten."
+          "Abklopfbehälter entleeren und reinigen. Die Kaffeemaschine mit Blindsieb nach der vorhandenen Geräteeinweisung reinigen. Ablaufschale, Siebträger, Milchkännchen und Dampflanze reinigen. Anschließend die Kaffeemaschine ausschalten. Kaffee wird in der Pause nicht angeboten."
         ],
         [
           "Spülmaschine sauber halten",
@@ -248,31 +217,8 @@ window.AUDIMAX_DATA = {
         ]
       ],
       "photos": [
+        "alea-coffee-marked",
         "paper-cups"
-      ]
-    },
-    {
-      "id": "registers",
-      "title": "Kassenstationen und Snackboxen",
-      "subtitle": "Zuordnung, Ausstattung und Platzierung",
-      "tag": "VERKAUF",
-      "steps": [
-        [
-          "Kassen zuordnen",
-          "Alea: Kassen 1–3 von rechts nach links Richtung Garderobe. Schwarze Bar: Kassen 4–5. iPad, EC-Gerät und Kassenlade müssen dieselbe Kassennummer haben."
-        ],
-        [
-          "Jede Station ausstatten",
-          "Ein iPad, ein EC-Gerät, eine Kassenlade, ein Trinkgeldglas mit Aufsteller, zwei Flaschenöffner, ein Gefäß für Kronkorken, eine Snackbox sowie ein Brezenständer mit Servietten gehören zu jeder Station."
-        ],
-        [
-          "Besetzung beachten",
-          "iPad und Snackbox nur bei besetzter Kasse auf die Theke stellen. Sonst auf der Arbeitsfläche bereithalten, an der Alea die Snackbox neben der Kassenlade. An der schwarzen Bar außerhalb des Sichtbereichs der Gäste abstellen."
-        ]
-      ],
-      "condition": "Snackboxen auffüllen: bei Bedarf",
-      "photos": [
-        "catering-register-storage"
       ]
     },
     {
@@ -299,30 +245,6 @@ window.AUDIMAX_DATA = {
       ]
     },
     {
-      "id": "fridge3-controls",
-      "title": "Kühlschrank Kasse 3: Temperatur und Licht",
-      "subtitle": "Aufstellen, befüllen und bedienen",
-      "tag": "KÜHLUNG",
-      "warning": "Ein Detailfoto der Bedienelemente und konkrete Einstellwerte liegen noch nicht vor.",
-      "steps": [
-        [
-          "Einsatz",
-          "Den Zusatzkühlschrank bei mehr als 1.000 Gästen an Kasse 3 aufstellen und anschließen."
-        ],
-        [
-          "Bedienelemente",
-          "Zieltemperatur und Beleuchtung lassen sich an der Rückseite einstellen."
-        ],
-        [
-          "Befüllen",
-          "Alle angebotenen Getränke vorgekühlt aus dem Getränkekühlhaus UNIKAT bereitstellen. Häufig nachgefragte Getränke weiter oben einsortieren."
-        ]
-      ],
-      "photos": [
-        "fridge-queue-stored"
-      ]
-    },
-    {
       "id": "presale-flow",
       "title": "Verkauf vor der Veranstaltung",
       "subtitle": "Verkaufsbereitschaft und laufender Betrieb",
@@ -330,7 +252,7 @@ window.AUDIMAX_DATA = {
       "steps": [
         [
           "Kasse übernehmen",
-          "Verkaufsbereitschaft, Kassenstation und Warenangebot prüfen. iPad und Snackbox nur auf die Theke stellen, wenn die Kasse besetzt ist."
+          "Verkaufsbereitschaft, Kassenstation und Warenangebot prüfen. Die Kassentablets können auf der Theke oder auf der Arbeitsfläche stehen – je nachdem, wo sie sich am ergonomischsten bedienen lassen. Nur das EC-Lesegerät muss für Gäste zugänglich auf der Theke bereitliegen."
         ],
         [
           "Nachschub abstimmen",
@@ -391,14 +313,20 @@ window.AUDIMAX_DATA = {
           "label": "Material und Waren aus dem UNIKAT holen",
           "info": [
             "Wenn das UNIKAT geschlossen ist, befindet sich der Zugangsschlüssel am Alea-Schlüsselbund im Schlüsselsafe.",
-            "Für den Transport kann einer der beiden bereitstehenden Wagen genutzt werden. Die benötigten Kassen mit der Einsatzleitung abstimmen: Alea nutzt Kassen 1–3, die schwarze Bar Kassen 4–5."
+            "Für den Transport kann einer der beiden bereitstehenden Wagen genutzt werden. Die benötigten Kassen mit der Schichtleitung abstimmen."
           ],
           "children": [
             {
               "id": "alea-collect-drawers",
               "label": "Kassenladen holen",
               "info": [
-                "Die Kassenladen befinden sich im Büroschrank im UNIKAT. Dafür wird der Hundeschlüssel benötigt. Nur die für den Einsatz vorgesehenen Kassenladen mitnehmen."
+                "Die Kassenladen befinden sich im Büroschrank im UNIKAT. Dafür wird der Hundeschlüssel benötigt.",
+                "Die Anzahl der Kassenstationen hängt vom Gästeaufkommen, dem Personaleinsatz und der Art der Veranstaltung ab. Wenn viele Gäste innerhalb kurzer Zeit eintreffen, möglichst mehr Kassenstationen einsetzen.",
+                "Unter 650 Gästen: Kassenladen 1 und 2 an der Alea verwenden.",
+                "Bei 650–850 Gästen: Kassenladen 1–3 verwenden. Kassenladen 1 und 2 stehen an der Alea; Kassenlade 3 wird an der schwarzen Bar mit Kassentablet 4 und EC-Gerät 4 eingesetzt.",
+                "Bei 851–1.000 Gästen: Kassenladen 1–4 verwenden, drei an der Alea und eine an der schwarzen Bar.",
+                "Bei mehr als 1.000 Gästen: Kassenladen 1–5 verwenden, drei an der Alea und zwei an der schwarzen Bar.",
+                "Stets die Hinweise und Vorgaben beachten, die im Büro hinterlegt sind."
               ]
             },
             {
@@ -449,7 +377,6 @@ window.AUDIMAX_DATA = {
             "Mit vorgekühlten Getränken aus dem Getränkekühlhaus im UNIKAT befüllen. Häufig nachgefragte Getränke weiter oben einsortieren."
           ],
           "condition": "Nur bei mehr als 1.000 Gästen",
-          "guide": "fridge3-controls",
           "photos": [
             "fridge-queue-stored",
             "fridge3-setup"
@@ -464,7 +391,6 @@ window.AUDIMAX_DATA = {
             "Den kleinen Strahler auf dem Kühlschrank platzieren und auf den ALEA-Schriftzug ausrichten."
           ],
           "photos": [
-            "spotlights",
             "counter-fridge-controls"
           ],
           "order": 4
@@ -484,8 +410,10 @@ window.AUDIMAX_DATA = {
             "Die Kaffeemaschine benötigt etwa 15 Minuten zum Vorheizen.",
             "Die Temperaturen von Brühgruppen und Boiler über „Funktion → Information → Temperaturen“ abrufen."
           ],
-          "guide": "coffee",
-          "order": 6
+          "order": 6,
+          "photos": [
+            "coffee-controls-pending"
+          ]
         },
         {
           "id": "alea-dishwasher-on",
@@ -494,16 +422,18 @@ window.AUDIMAX_DATA = {
             "Die Spülmaschine muss sich zunächst mit Wasser füllen. Dies dauert in der Regel bis zu zehn Minuten.",
             "Spülmittel und Klarspüler werden aus den Kanistern rechts neben der Maschine bezogen. Die Füllstände prüfen."
           ],
-          "order": 7
+          "order": 7,
+          "photos": [
+            "dishwasher-controls-pending"
+          ]
         },
         {
           "id": "alea-bake-snacks",
           "label": "Backöfen vorheizen und Backwaren aufbacken",
           "info": [
-            "Die Voreinstellung passend zur Backware wählen. Die Backanleitung und die verknüpften Anleitungsvideos verwenden.",
+            "Das passende Backprogramm für Cookies oder Brezen wählen. Die beiden verknüpften Anleitungen beschreiben die einzelnen Schritte.",
             "Wenn Cookies angeboten werden, diese zuerst aufbacken, damit sie anschließend auskühlen können."
           ],
-          "guide": "pretzels",
           "photos": [
             "ovens",
             "baking-instructions"
@@ -513,29 +443,21 @@ window.AUDIMAX_DATA = {
               "id": "alea-bake-cookies",
               "label": "Cookies aufbacken und auskühlen lassen",
               "info": [],
-              "condition": "Wenn Cookies angeboten werden"
+              "condition": "Wenn Cookies angeboten werden",
+              "guide": "cookies"
             },
             {
               "id": "alea-bake-pretzels",
               "label": "Brezen aufbacken",
-              "info": []
+              "info": [],
+              "guide": "pretzels"
             }
           ],
-          "order": 8
-        },
-        {
-          "id": "alea-music-light",
-          "label": "Musik und Beleuchtung einschalten",
-          "info": [
-            "Die Musik über die Sonos-App auf dem Alea-Kassentablet starten.",
-            "Wenn auch die schwarze Bar in Betrieb ist, die Musik über die Tonique-App synchronisieren. Standardauswahl: „Funky Bar“.",
-            "Die Beleuchtung über die entsprechende App auf Kasse 1 einschalten."
-          ],
-          "guide": "music",
-          "photos": [
-            "alea-register-location"
-          ],
-          "order": 9
+          "order": 8,
+          "guides": [
+            "cookies",
+            "pretzels"
+          ]
         },
         {
           "id": "alea-stock-check",
@@ -544,9 +466,8 @@ window.AUDIMAX_DATA = {
             "Die Getränkebestände prüfen und fehlende Getränke auffüllen. Der Thekenkühlschrank enthält in der Regel Weinschorlen.",
             "Den Zusatzkühlschrank an Kasse 3 einbeziehen, wenn er aufgebaut ist. Dort alle angebotenen Getränke vorgekühlt aus dem UNIKAT bereitstellen."
           ],
-          "condition": "Auffüllen: bei Bedarf",
           "guide": "storage",
-          "order": 10
+          "order": 9
         },
         {
           "id": "alea-queue-system",
@@ -560,7 +481,7 @@ window.AUDIMAX_DATA = {
             "alea-front",
             "fridge-queue-stored"
           ],
-          "order": 11
+          "order": 10
         },
         {
           "id": "alea-tables",
@@ -569,32 +490,32 @@ window.AUDIMAX_DATA = {
             "Der Schlüssel für die Tischschlösser befindet sich am Alea-Schlüsselbund.",
             "Die Tische abwischen und die roten Tischlampen auf den Tischen rund um die Alea verteilen."
           ],
-          "order": 12
+          "order": 11
         },
         {
           "id": "alea-surfaces-ready",
-          "label": "Theke und Arbeitsflächen vorbereiten",
+          "label": "Theke und Arbeitsflächen reinigen",
           "info": [
-            "Theke und Arbeitsflächen für den Aufbau freiräumen und sauber bereitstellen."
+            "Theke und Arbeitsflächen freiräumen und reinigen."
           ],
-          "order": 13
+          "order": 12
         },
         {
           "id": "alea-register-stations",
           "label": "Kassenstationen vollständig aufbauen",
           "info": [
-            "Kassen 1–3 von rechts nach links Richtung Garderobe anordnen. iPad, EC-Gerät und Kassenlade müssen dieselbe Kassennummer haben.",
-            "iPad und Snackbox nur bei besetzter Kasse auf die Theke stellen. Sonst auf der Arbeitsfläche bereithalten; die Snackbox steht neben der Kassenlade."
+            "Kassentablets 1–3 von rechts nach links Richtung Garderobe anordnen. Kassentablet und EC-Gerät müssen dieselbe Kassennummer haben.",
+            "Die Kassenlade sollte dieselbe Nummer haben. Bei abweichender Zuordnung die Kassenladen immer in aufsteigender Reihenfolge verwenden.",
+            "Die Kassentablets können auf der Theke oder auf der Arbeitsfläche stehen – je nachdem, wo sie sich am ergonomischsten bedienen lassen. Nur das EC-Lesegerät muss für Gäste zugänglich auf der Theke bereitliegen."
           ],
-          "guide": "registers",
           "photos": [
-            "catering-register-storage",
-            "alea-front-detail"
+            "alea-registers-marked",
+            "alea-registers-staff-pending"
           ],
           "children": [
             {
               "id": "alea-stations-devices",
-              "label": "iPad, EC-Gerät und Kassenlade zuordnen",
+              "label": "Kassentablet und EC-Gerät zuordnen, Kassenlade bereitstellen",
               "info": []
             },
             {
@@ -612,9 +533,22 @@ window.AUDIMAX_DATA = {
               "label": "Snackbox und Brezenständer mit Servietten bereitstellen",
               "info": [
                 "Den Inhalt der Snackbox prüfen und fehlende Ware ergänzen."
-              ],
-              "condition": "Snackbox auffüllen: bei Bedarf"
+              ]
             }
+          ],
+          "order": 13
+        },
+        {
+          "id": "alea-music-light",
+          "label": "Musik und Beleuchtung einschalten",
+          "info": [
+            "Die Musik über die Sonos-App auf dem Alea-Kassentablet starten.",
+            "Wenn auch die schwarze Bar in Betrieb ist, die Musik über die Tonique-App synchronisieren. Standardauswahl: „Funky Bar“.",
+            "Die Beleuchtung über die entsprechende App auf Kasse 1 einschalten."
+          ],
+          "guide": "music",
+          "photos": [
+            "alea-register-location"
           ],
           "order": 14
         },
@@ -625,7 +559,10 @@ window.AUDIMAX_DATA = {
             "Die Preisschilder stehen im Backraum Alea zwischen Kühlschrank und Gefriertruhe.",
             "Die Schilder sind mit „Kasse 1“ und „Kasse 2“ gekennzeichnet. Auf die richtige Zuordnung achten."
           ],
-          "order": 15
+          "order": 15,
+          "photos": [
+            "alea-prices-marked"
+          ]
         },
         {
           "id": "alea-coffee-service",
@@ -637,6 +574,7 @@ window.AUDIMAX_DATA = {
           ],
           "guide": "coffee",
           "photos": [
+            "alea-coffee-marked",
             "paper-cups"
           ],
           "order": 16
@@ -647,7 +585,10 @@ window.AUDIMAX_DATA = {
           "info": [
             "Zucker, Rührstäbchen und Strohhalme an zentraler Stelle bereitstellen."
           ],
-          "order": 17
+          "order": 17,
+          "photos": [
+            "alea-coffee-marked"
+          ]
         },
         {
           "id": "alea-glasses",
@@ -667,7 +608,7 @@ window.AUDIMAX_DATA = {
             "Auf der Vitrine je eine Flasche jedes angebotenen Getränks in die entsprechenden Displays stellen."
           ],
           "photos": [
-            "alea-front-detail",
+            "alea-display-marked",
             "showcase-light-plug"
           ],
           "order": 19
@@ -679,7 +620,6 @@ window.AUDIMAX_DATA = {
             "Auf der Theke Richtung Damentoiletten zwei Handtücher auslegen. Darauf werden die Racks aus der Spülmaschine zum Polieren abgestellt."
           ],
           "photos": [
-            "alea-front",
             "alea-front-detail",
             "alea-side"
           ],
@@ -724,7 +664,6 @@ window.AUDIMAX_DATA = {
             "Kühlschrankelement und Mittelelement stehen in H2. Die beiden Kühlelemente mit Getränkeschüben befinden sich im Audimax-Lager Galerie.",
             "Die benötigten Elemente entsprechend dem Gästeaufkommen aufbauen und anschließen."
           ],
-          "guide": "bar-elements",
           "photos": [
             "h2-elements",
             "black-one-element",
@@ -734,9 +673,9 @@ window.AUDIMAX_DATA = {
         },
         {
           "id": "black-surfaces-ready",
-          "label": "Theke und Arbeitsflächen vorbereiten",
+          "label": "Theke und Arbeitsflächen reinigen",
           "info": [
-            "Theke und Arbeitsflächen für den Aufbau freiräumen und sauber bereitstellen."
+            "Theke und Arbeitsflächen freiräumen und reinigen."
           ],
           "order": 2
         },
@@ -744,14 +683,14 @@ window.AUDIMAX_DATA = {
           "id": "black-register-stations",
           "label": "Kassenstationen vollständig aufbauen",
           "info": [
-            "An der schwarzen Bar werden Kassen 4–5 eingesetzt. iPad, EC-Gerät und Kassenlade müssen dieselbe Kassennummer haben.",
-            "iPad und Snackbox nur bei besetzter Kasse auf die Theke stellen. Sonst auf der Arbeitsfläche außerhalb des Sichtbereichs der Gäste bereithalten."
+            "An der schwarzen Bar werden Kassentablets 4–5 eingesetzt. Kassentablet und EC-Gerät müssen dieselbe Nummer haben.",
+            "Die Kassenlade kann eine andere Nummer haben. An der schwarzen Bar immer die höchsten der für den Einsatz verwendeten Kassenladennummern einsetzen.",
+            "Die Kassentablets können auf der Theke oder auf der Arbeitsfläche stehen – je nachdem, wo sie sich am ergonomischsten bedienen lassen. Nur das EC-Lesegerät muss für Gäste zugänglich auf der Theke bereitliegen."
           ],
-          "guide": "registers",
           "children": [
             {
               "id": "black-stations-devices",
-              "label": "iPad, EC-Gerät und Kassenlade zuordnen",
+              "label": "Kassentablet und EC-Gerät zuordnen, Kassenlade bereitstellen",
               "info": []
             },
             {
@@ -769,8 +708,7 @@ window.AUDIMAX_DATA = {
               "label": "Snackbox und Brezenständer mit Servietten bereitstellen",
               "info": [
                 "Den Inhalt der Snackbox prüfen und fehlende Ware ergänzen."
-              ],
-              "condition": "Snackbox auffüllen: bei Bedarf"
+              ]
             }
           ],
           "order": 3
@@ -818,8 +756,7 @@ window.AUDIMAX_DATA = {
             "Einen Getränkekistenständer mit leeren Getränkekisten für die Leergutrückgabe aufstellen. Der Kistenständer steht ebenfalls in H2."
           ],
           "photos": [
-            "stone-seating",
-            "preorder-tables"
+            "stone-seating"
           ],
           "order": 7
         },
@@ -838,10 +775,10 @@ window.AUDIMAX_DATA = {
             }
           ],
           "photos": [
-            "table-signs",
             "spotlights",
             "preorder-banner",
-            "preorder-tables"
+            "preorder-tables",
+            "pustet-ready"
           ],
           "order": 8
         }
@@ -855,51 +792,6 @@ window.AUDIMAX_DATA = {
         "black-one-element",
         "black-two-ready",
         "stone-seating"
-      ]
-    },
-    {
-      "id": "setup-aperol",
-      "title": "Aufbau Aperol Bar",
-      "group": "setup",
-      "tasks": [
-        {
-          "id": "sp-prepare",
-          "label": "Aperol Bar vorbereiten",
-          "guide": "aperol",
-          "photo": "aperol-setup",
-          "children": [
-            {
-              "id": "sp-position",
-              "label": "Position und sichere Laufwege prüfen",
-              "guide": "aperol",
-              "photo": "aperol-setup"
-            },
-            {
-              "id": "sp-build",
-              "label": "Arbeitsbereich vollständig und standsicher aufbauen",
-              "guide": "aperol",
-              "photo": "aperol-setup"
-            },
-            {
-              "id": "sp-clean",
-              "label": "Arbeitsflächen reinigen",
-              "guide": "aperol"
-            }
-          ],
-          "order": 1
-        },
-        {
-          "id": "sp-equip",
-          "label": "Ausstattung nach betrieblicher Vorgabe bereitstellen",
-          "guide": "aperol",
-          "order": 2
-        },
-        {
-          "id": "sp-target",
-          "label": "Aufbau mit dem Zielbild abgleichen",
-          "photo": "aperol-setup",
-          "order": 3
-        }
       ]
     },
     {
@@ -1022,7 +914,7 @@ window.AUDIMAX_DATA = {
           "children": [
             {
               "id": "pause-coffee-grounds",
-              "label": "Kaffeesatz-Einlage entleeren und reinigen",
+              "label": "Abklopfbehälter entleeren und reinigen",
               "info": []
             },
             {
@@ -1079,11 +971,9 @@ window.AUDIMAX_DATA = {
           "label": "Vorbestellungen prüfen und ausdrucken",
           "info": [
             "Die Vorbestellungen am PC im Backraum Alea aufrufen.",
-            "Auf audimax-events.de den Admin-Bereich öffnen: Vorbestellungen → Druckansicht → Bon 80 mm. In den Druckeinstellungen das Papierformat 80 × 150 mm wählen und drucken.",
-            "Vorbestellungen für Pinsen und Antipasti direkt an die Küche weitergeben. Als Zielzeit zehn Minuten vor Pausenbeginn angeben."
+            "Auf audimax-events.de den Admin-Bereich öffnen: Vorbestellungen → Druckansicht → Bon 80 mm. In den Druckeinstellungen das Papierformat 80 × 150 mm wählen und drucken."
           ],
           "condition": "Etwa 10 Minuten nach Veranstaltungsbeginn",
-          "guide": "online",
           "photos": [
             "catering-register-storage"
           ],
@@ -1096,39 +986,46 @@ window.AUDIMAX_DATA = {
           "order": 1
         },
         {
-          "id": "preorders-prepare-deliver",
-          "label": "Vorbestellungen vorbereiten und an die Tische bringen",
+          "id": "preorders-inform-kitchen",
+          "label": "Küche informieren",
           "info": [
-            "Die Getränke auf Tabletts bereitstellen: Flaschen öffnen, die Kronkorken jedoch auf den Flaschen belassen. Die Tabletts etwa fünf bis zehn Minuten vor Pausenbeginn an die zugehörigen Tische bringen.",
-            "Vorbestellte Pinsen und Antipasti etwa zehn Minuten vor Pausenbeginn aus der Küche holen und ebenfalls an die Tische bringen. Servietten dazulegen.",
-            "Jeder Tisch mit Vorbestellung muss den passenden Tischaufsteller mit Tischnummer haben. Nach Möglichkeit eine eingeschaltete Tischlampe dazustellen."
+            "Die Küche hinsichtlich der vorbestellten Speisen informieren.",
+            "Eine Abholzeit etwa zehn Minuten vor Pausenbeginn vereinbaren. Im Zweifel die Pausenzeiten mit dem Veranstalter oder der Security abklären."
           ],
-          "condition": "Etwa 15 Minuten vor Pausenbeginn beginnen",
-          "guide": "online",
-          "photos": [
-            "preorder-tables",
-            "table-signs"
-          ],
-          "children": [
-            {
-              "id": "preorders-drinks",
-              "label": "Getränke auf Tabletts vorbereiten und verteilen",
-              "info": [],
-              "condition": "An die Tische: 5–10 Minuten vor Pausenbeginn"
-            },
-            {
-              "id": "preorders-food",
-              "label": "Pinsen und Antipasti abholen und mit Servietten verteilen",
-              "info": [],
-              "condition": "Etwa 10 Minuten vor Pausenbeginn"
-            },
-            {
-              "id": "preorders-table-signs",
-              "label": "Tischnummern und eingeschaltete Tischlampen prüfen",
-              "info": []
-            }
-          ],
+          "condition": "Etwa 10 Minuten nach Veranstaltungsbeginn",
           "order": 2
+        },
+        {
+          "id": "preorders-drinks-ready",
+          "label": "Getränke vorbereiten",
+          "info": [
+            "Getränke entsprechend den Vorbestellungen auf Tabletts bereitstellen. Die Flaschen öffnen und die Kronkorken auf den Flaschen belassen."
+          ],
+          "condition": "Etwa 15 Minuten vor Pausenbeginn",
+          "order": 3
+        },
+        {
+          "id": "preorders-food-collect",
+          "label": "Speisen aus der Küche holen",
+          "info": [
+            "Vorbestellte Pinsen und Antipasti zur vereinbarten Zeit aus der Küche holen. Servietten mitnehmen."
+          ],
+          "condition": "Etwa 10 Minuten vor Pausenbeginn",
+          "order": 4
+        },
+        {
+          "id": "preorders-table-delivery",
+          "label": "Vorbestellungen an die Tische bringen",
+          "info": [
+            "Getränke und Speisen an die zugehörigen Tische bringen. Jeder Tisch mit Bestellung muss den passenden Tischaufsteller mit Tischnummer haben.",
+            "An Tischen mit Bestellung sollte nach Möglichkeit eine eingeschaltete Lampe stehen.",
+            "Am Tisch die Bestellung nochmals auf Vollständigkeit prüfen."
+          ],
+          "condition": "Etwa 10 Minuten vor Pausenbeginn",
+          "photos": [
+            "preorder-tables"
+          ],
+          "order": 5
         }
       ],
       "notes": [
@@ -1138,7 +1035,7 @@ window.AUDIMAX_DATA = {
     },
     {
       "id": "close-alea",
-      "title": "Abbau Alea (inkl. Garderobe)",
+      "title": "Abbau Alea",
       "group": "close",
       "tasks": [
         {
@@ -1169,7 +1066,7 @@ window.AUDIMAX_DATA = {
             "Den zurückgebauten Zusatzkühlschrank an der Wand der Alea in Richtung Garderobe abstellen."
           ],
           "order": 2,
-          "condition": "Vor Veranstaltungsende, soweit der Betrieb es zulässt",
+          "condition": "Vor Veranstaltungsende",
           "photos": [
             "fridge-queue-stored"
           ]
@@ -1185,7 +1082,7 @@ window.AUDIMAX_DATA = {
             "Eingesammelte Gläser zum Spülen in die Alea bringen."
           ],
           "order": 3,
-          "condition": "Vor Veranstaltungsende, soweit der Betrieb es zulässt"
+          "condition": "Vor Veranstaltungsende"
         },
         {
           "id": "alea-teardown-tables-seating",
@@ -1198,7 +1095,7 @@ window.AUDIMAX_DATA = {
             "Die Anordnung der Tische und Stühle mit dem Zielbild abgleichen."
           ],
           "order": 4,
-          "condition": "Vor Veranstaltungsende, soweit der Betrieb es zulässt",
+          "condition": "Vor Veranstaltungsende",
           "photos": [
             "alea-tables-stored"
           ]
@@ -1213,7 +1110,7 @@ window.AUDIMAX_DATA = {
             "Gefüllte Racks im Backraum der Alea entsprechend dem Zielbild stapeln."
           ],
           "order": 5,
-          "condition": "Vor Veranstaltungsende, soweit der Betrieb es zulässt",
+          "condition": "Vor Veranstaltungsende",
           "photos": [
             "backroom-racks"
           ]
@@ -1231,28 +1128,7 @@ window.AUDIMAX_DATA = {
             "Preisschilder und Preistafeln im Backraum des Unikats zwischen Kühlschrank und Gefriertruhe verstauen."
           ],
           "order": 6,
-          "condition": "Vor Veranstaltungsende, soweit der Betrieb es zulässt",
-          "children": [
-            {
-              "id": "alea-close-wardrobe",
-              "label": "Garderobe zurückbauen",
-              "info": [
-                "Nicht abgeholte Gegenstände mit der Einsatzleitung klären und geordnet übergeben.",
-                "Aufsteller und Garderobenbox unter der Garderobentheke verstauen und den Bereich aufräumen."
-              ],
-              "condition": "Wenn die Garderobe aufgebaut war",
-              "photos": [
-                "wardrobe-stored"
-              ]
-            },
-            {
-              "id": "alea-close-food-store",
-              "label": "Übrige Speisen versorgen",
-              "info": [
-                "Übrige italienische Baguettes, Brezen und Cookies nach dem betrieblichen Ablauf versorgen. Den Umgang mit Restwaren mit der UNIKAT-Küche abstimmen."
-              ]
-            }
-          ],
+          "condition": "Vor Veranstaltungsende",
           "photos": [
             "backroom-order",
             "wardrobe-stored"
@@ -1262,14 +1138,13 @@ window.AUDIMAX_DATA = {
           "id": "alea-teardown-cash-handover",
           "label": "Kassenabschluss vorbereiten",
           "info": [
-            "Die Kassen aus Alea und Schwarzer Bar für den Kassenabschluss zusammenführen.",
-            "Der endgültige Kassenabschluss wird von Stacey durchgeführt.",
+            "Die Kassen aus Alea und schwarzer Bar für den Kassenabschluss zusammenführen.",
             "Die Schichtleitung ist für die Entnahme und Verteilung des Trinkgelds verantwortlich.",
-            "Kassenladen für den Transport ins Büro im Unikat bereitstellen oder direkt durch die Schichtleitung dorthin bringen.",
-            "Für den Büroschrank im UNIKAT wird der Hundeschlüssel benötigt."
+            "Kassenladen in das Büro im UNIKAT bringen; Hundeschlüssel.",
+            "Der endgültige Kassenabschluss wird von Steffi durchgeführt."
           ],
           "order": 7,
-          "condition": "Schichtleitung · vor Veranstaltungsende, soweit möglich"
+          "condition": "Schichtleitung · vor Veranstaltungsende"
         },
         {
           "id": "alea-teardown-queue",
@@ -1280,7 +1155,7 @@ window.AUDIMAX_DATA = {
             "Das Personenleitsystem wird am selben Ort wie der zurückgebaute Zusatzkühlschrank gelagert."
           ],
           "order": 8,
-          "condition": "Vor Veranstaltungsende, soweit der Betrieb es zulässt",
+          "condition": "Vor Veranstaltungsende",
           "photos": [
             "fridge-queue-stored"
           ]
@@ -1298,74 +1173,34 @@ window.AUDIMAX_DATA = {
             "Beleuchtung der Vitrine ausschalten."
           ],
           "order": 9,
-          "condition": "Vor Veranstaltungsende, soweit der Betrieb es zulässt"
-        },
-        {
-          "id": "alea-teardown-final-collect",
-          "label": "Flaschen und Gläser nach Veranstaltungsende einsammeln",
-          "info": [
-            "Sofern Getränke in Flaschen mit in den Veranstaltungssaal genommen werden durften, den gesamten Saal nach Veranstaltungsende kontrollieren.",
-            "Sämtliche zurückgelassenen Flaschen im Veranstaltungssaal einsammeln.",
-            "Das Forum nach Veranstaltungsende erneut vollständig kontrollieren, da Gäste häufig weitere Flaschen und Gläser abstellen.",
-            "Eingesammelte Flaschen nach Getränkesorten in die entsprechenden Leergutkästen sortieren.",
-            "Eingesammelte Gläser spülen, polieren und in die vorgesehenen Racks einsortieren.",
-            "Gläserracks anschließend im Backraum der Alea entsprechend dem Zielbild verstauen."
-          ],
-          "order": 10,
-          "condition": "Nach Veranstaltungsende",
-          "photos": [
-            "backroom-racks"
-          ]
+          "condition": "Vor Veranstaltungsende"
         },
         {
           "id": "alea-teardown-clean-surfaces",
-          "label": "Arbeitsflächen und Schubladen reinigen",
+          "label": "Arbeitsflächen, Fronten und Schubladen reinigen",
           "info": [
-            "Sämtliche Edelstahl-Arbeitsflächen und Schubladen mit einem frischen Lappen, Wasser und Spülmittel gründlich reinigen.",
+            "Sämtliche Edelstahl-Arbeitsflächen, Fronten und Schubladen mit einem frischen Lappen, Wasser und Spülmittel gründlich reinigen.",
             "Edelstahlflächen anschließend sofort trocken nachwischen, um Schlieren zu vermeiden.",
             "Glasarbeitsflächen im Thekenbereich mit einem frischen Lappen und ausschließlich Wasser reinigen.",
             "Glasflächen anschließend sorgfältig trocken nachwischen.",
             "Sicherstellen, dass insbesondere die Glasplatten klar, sauber und frei von Beschlag und Schlieren sind."
           ],
-          "order": 11,
-          "condition": "Nach Veranstaltungsende"
+          "order": 10,
+          "condition": "Vor Veranstaltungsende"
         },
         {
           "id": "alea-teardown-store-equipment",
           "label": "Arbeits- und Betriebsmittel verräumen",
           "info": [
             "Sämtliche Arbeits- und Betriebsmittel, die im Verkaufsbereich der Alea verbleiben, an den vorgesehenen Plätzen verstauen.",
-            "Die Anordnung der Materialien entsprechend dem Zielbild herstellen."
+            "Die Anordnung der Materialien entsprechend dem Zielbild herstellen.",
+            "Insbesondere die Betriebsmittel auf der Alea-Arbeitsfläche für den Tagesbetrieb an den vorgesehenen Plätzen bereitstellen."
           ],
-          "order": 12,
-          "condition": "Nach Veranstaltungsende",
-          "children": [
-            {
-              "id": "alea-close-coffee",
-              "label": "Kaffeeplatz reinigen und Kaffeemaschine sowie Kaffeemühle abschließen",
-              "info": [
-                "Die Reinigung der Kaffeemaschine erfolgt bereits nach dem Vorverkauf im Rahmen der Pausenvorbereitung. Prüfen, ob Kaffeesatz-Einlage, Maschine mit Blindsieb, Ablaufschale, Siebträger, Milchkännchen und Dampflanze gereinigt wurden und die Maschine ausgeschaltet ist.",
-                "Milch und andere Vorräte zurückräumen. Zucker, Rührstäbchen und Pappbecher verstauen. Die Kaffeemühle nach dem vorgesehenen Reinigungs- und Abschaltablauf außer Betrieb nehmen."
-              ],
-              "condition": "Falls noch nicht während der Pausenvorbereitung erledigt",
-              "guide": "coffee"
-            }
-          ],
+          "order": 11,
+          "condition": "Vor Veranstaltungsende",
           "photos": [
             "alea-equipment-stored"
           ]
-        },
-        {
-          "id": "alea-teardown-waste-sweep",
-          "label": "Müll sammeln und Boden kehren",
-          "info": [
-            "Sämtliche Abfälle aus dem Verkaufs- und Arbeitsbereich der Alea zusammentragen.",
-            "Müll möglichst nach Papier, Restmüll und Glasmüll vorsortieren.",
-            "Vorsortierten Müll für den späteren Abtransport bereitstellen.",
-            "Den gesamten Boden im Thekenbereich mit einem Besen gründlich kehren."
-          ],
-          "order": 13,
-          "condition": "Nach Veranstaltungsende"
         },
         {
           "id": "alea-teardown-clean-backroom",
@@ -1378,12 +1213,62 @@ window.AUDIMAX_DATA = {
             "Achtung – Verbrennungsgefahr! Vor der Reinigung sicherstellen, dass die Backöfen ausreichend abgekühlt sind.",
             "Den gesamten Boden im Backraum mit einem Besen gründlich kehren."
           ],
-          "order": 14,
-          "condition": "Nach Veranstaltungsende",
+          "order": 12,
+          "condition": "Vor Veranstaltungsende",
           "photos": [
             "backroom-order",
             "backroom-racks"
           ]
+        },
+        {
+          "id": "alea-teardown-final-collect",
+          "label": "Flaschen und Gläser nach Veranstaltungsende einsammeln",
+          "info": [
+            "Sofern Getränke in Flaschen mit in den Veranstaltungssaal genommen werden durften, den gesamten Saal nach Veranstaltungsende kontrollieren.",
+            "Sämtliche zurückgelassenen Flaschen im Veranstaltungssaal einsammeln.",
+            "Das Forum nach Veranstaltungsende erneut vollständig kontrollieren, da Gäste häufig weitere Flaschen und Gläser abstellen.",
+            "Eingesammelte Flaschen nach Getränkesorten in die entsprechenden Leergutkästen sortieren.",
+            "Eingesammelte Gläser spülen, polieren und in die vorgesehenen Racks einsortieren.",
+            "Gläserracks anschließend im Backraum der Alea entsprechend dem Zielbild verstauen."
+          ],
+          "order": 13,
+          "condition": "Nach Veranstaltungsende",
+          "photos": [
+            "backroom-racks"
+          ]
+        },
+        {
+          "id": "alea-teardown-final-wash",
+          "label": "Gläser, Kaffeetassen und Betriebsmittel spülen",
+          "info": [
+            "Die nach Veranstaltungsende eingesammelten Gläser sowie Kaffeetassen und benutzte Betriebsmittel spülen.",
+            "Insbesondere Zangen, Servierplatten, die Kaffeemehl-Auffangschale, den Tamper und die Siebträger berücksichtigen."
+          ],
+          "condition": "Nach Veranstaltungsende",
+          "order": 14
+        },
+        {
+          "id": "alea-teardown-dishwasher-clean",
+          "label": "Spülmaschine reinigen und ausschalten",
+          "info": [
+            "Spülmaschine abpumpen.",
+            "Filter und Sprüharme der Spülmaschine reinigen.",
+            "Die Spülmaschine ausschalten."
+          ],
+          "condition": "Nach Veranstaltungsende",
+          "order": 15
+        },
+        {
+          "id": "alea-teardown-waste-sweep",
+          "label": "Müll sammeln und Boden kehren",
+          "info": [
+            "Sämtliche Abfälle aus dem Verkaufs- und Arbeitsbereich der Alea zusammentragen.",
+            "Müll möglichst nach Papier, Restmüll und Glasmüll vorsortieren.",
+            "Vorsortierten Müll für den späteren Abtransport bereitstellen.",
+            "Den gesamten Boden im Thekenbereich mit einem Besen gründlich kehren."
+          ],
+          "order": 16,
+          "condition": "Nach Veranstaltungsende"
         },
         {
           "id": "alea-teardown-dispose-waste",
@@ -1395,7 +1280,7 @@ window.AUDIMAX_DATA = {
             "Restmüll kann in allen entsprechend gekennzeichneten Restmülltonnen entsorgt werden.",
             "Für den Abtransport kann der Aufzug zur Albertus-Magnus-Straße genutzt werden."
           ],
-          "order": 15,
+          "order": 17,
           "condition": "Nach Veranstaltungsende"
         },
         {
@@ -1411,7 +1296,7 @@ window.AUDIMAX_DATA = {
             "Sobald eine Palette vollständig gefüllt und zur Abholung bereit ist, eine entsprechende Nachricht im WhatsApp-Kanal „Eventcatering“ teilen.",
             "Wenn Getränkebestände knapp werden, ebenfalls eine entsprechende Nachricht im WhatsApp-Kanal „Eventcatering“ teilen."
           ],
-          "order": 16,
+          "order": 18,
           "condition": "Nach Veranstaltungsende",
           "photos": [
             "cellar-return-pallets"
@@ -1426,7 +1311,7 @@ window.AUDIMAX_DATA = {
             "Sämtliche Rollwagen ins Unikat zurückbringen.",
             "Rollwagen im Gang des Unikats an den vorgesehenen Stellen abstellen."
           ],
-          "order": 17,
+          "order": 19,
           "condition": "Nach Veranstaltungsende"
         },
         {
@@ -1434,18 +1319,19 @@ window.AUDIMAX_DATA = {
           "label": "Alea abschließen",
           "info": [
             "Kontrollieren, ob sämtliche Arbeitsbereiche aufgeräumt, gereinigt und alle Materialien ordnungsgemäß verstaut sind.",
+            "Prüfen, ob sämtliche Schlüssel – insbesondere das rote und das blaue Schlüsselband – im Regal rechts neben dem Fernseher liegen.",
             "Sofern noch nicht erfolgt, sämtliche Lichter über die Lichtschalter neben der Tür zum Backraum Alea ausschalten.",
             "Tor der Alea vollständig herunterfahren.",
             "Backraum der Alea abschließen.",
             "Schlüssel im Schlüsselsafe einschließen."
           ],
-          "order": 18,
+          "order": 20,
           "condition": "Abschließender Arbeitsschritt · nach Veranstaltungsende"
         }
       ],
       "notes": [
-        "Die Checkliste umfasst Rückbau, Reinigung und Abschluss der Alea einschließlich Garderobe sowie Müll- und Leergutentsorgung.",
-        "Schritte 01–09 können vor Veranstaltungsende erledigt werden, soweit der laufende Betrieb dies zulässt. Schritte 10–18 folgen nach Veranstaltungsende.",
+        "Die Checkliste umfasst Rückbau, Reinigung und Abschluss der Alea sowie Müll- und Leergutentsorgung.",
+        "Die Schritte bis einschließlich „Backraum Alea reinigen und aufräumen“ bereits vor Veranstaltungsende erledigen. Anschließend die Flaschen und Gläser nach Veranstaltungsende einsammeln und die abschließenden Spül-, Entsorgungs- und Schließarbeiten durchführen.",
         "Backöfen frühzeitig ausschalten und vor der Reinigung ausreichend abkühlen lassen. Achtung: Verbrennungsgefahr!"
       ],
       "finalPhotos": [
@@ -1543,8 +1429,7 @@ window.AUDIMAX_DATA = {
               "label": "Pausenvorbestellungen abschließen",
               "info": [
                 "Nicht abgeholte Bestellungen mit der Einsatzleitung klären und den Ausgabestatus im Bestellsystem abschließend prüfen."
-              ],
-              "guide": "online"
+              ]
             },
             {
               "id": "black-close-seating",
@@ -1614,7 +1499,7 @@ window.AUDIMAX_DATA = {
       "notes": [
         "Die schwarze Bar möglichst zügig und noch vor Veranstaltungsende vollständig abbauen. Insbesondere die Barelemente frühzeitig abtransportieren: Bei Autogrammstunden oder Begegnungen mit den Künstlern können wartende Gäste die Wege zu den Aufzügen und zum Hörsaal 2 (H2) blockieren.",
         "Den Abbau mit der Alea abstimmen, besonders beim Auffüllen der Getränke, beim Leerguttransport und bei der Kassenübergabe.",
-        "Die abschließende Müll- und Leergutentsorgung sowie das Spülen und Verräumen der Gläser erfolgen im Rahmen der Checkliste „Abbau Alea (inkl. Garderobe)“."
+        "Die abschließende Müll- und Leergutentsorgung sowie das Spülen und Verräumen der Gläser erfolgen im Rahmen der Checkliste „Abbau Alea“."
       ],
       "finalPhotos": [
         "stone-area-cleared",
@@ -1622,159 +1507,6 @@ window.AUDIMAX_DATA = {
         "pustet-cleared",
         "black-elements-gallery-stored",
         "black-fridge-h2-stored"
-      ]
-    },
-    {
-      "id": "close-aperol",
-      "title": "Abbau Aperol Bar",
-      "group": "close",
-      "tasks": [
-        {
-          "id": "aperol-close-register",
-          "label": "Verkaufsbereich und eingesetzte Kasse zurücknehmen",
-          "info": [
-            "Die eingesetzten Kassengeräte und Kassenlade geordnet übergeben. Den vorhandenen Kassenabschluss beachten."
-          ],
-          "condition": "Wenn eine eigene Kasse eingesetzt wurde",
-          "order": 1
-        },
-        {
-          "id": "aperol-close-stock",
-          "label": "Getränke und übrige Zutaten versorgen",
-          "info": [
-            "Restbestände nach dem betrieblichen Ablauf zurücklagern und mit dem Getränke-Team abstimmen. Lagerplätze für die Aperol-Bar-Zutaten müssen noch ergänzt werden."
-          ],
-          "order": 2
-        },
-        {
-          "id": "aperol-close-glasses",
-          "label": "Gläser und Arbeitsmittel reinigen und verstauen",
-          "info": [
-            "Benutzte Gläser und Arbeitsmittel reinigen und am vorgesehenen Platz verstauen. Die konkrete Ausstattung wird anhand des endgültigen Aufbauablaufs ergänzt."
-          ],
-          "order": 3
-        },
-        {
-          "id": "aperol-close-display",
-          "label": "Getränkedisplay und Beschilderung abnehmen",
-          "info": [
-            "Die eingesetzten Displays und Schilder reinigen und geordnet zurückstellen."
-          ],
-          "order": 4
-        },
-        {
-          "id": "aperol-close-surface",
-          "label": "Theke und Arbeitsflächen reinigen",
-          "info": [
-            "Die Bar vollständig abräumen, reinigen und trocknen."
-          ],
-          "order": 5
-        },
-        {
-          "id": "aperol-close-elements",
-          "label": "Bar-Ausstattung zurückbauen und einlagern",
-          "info": [
-            "Die eingesetzten Elemente am vorgesehenen Lagerplatz abstellen. Elektrisch angeschlossene Geräte erst nach vollständigem Leeren und nach dem vorgesehenen Geräteabschluss vom Strom trennen."
-          ],
-          "order": 6
-        },
-        {
-          "id": "aperol-close-target",
-          "label": "Aufgeräumten Zustand mit dem Zielbild abgleichen",
-          "info": [],
-          "photos": [
-            "aperol-close"
-          ],
-          "order": 7
-        }
-      ],
-      "notes": [
-        "Aus den Aufbau-Checklisten abgeleiteter Entwurf. Rückgabeplätze und Geräteabschluss vor dem ersten Einsatz mit der Einsatzleitung abgleichen.",
-        "Die konkrete Ausstattung und die Rückgabeplätze der Aperol Bar sind noch zu ergänzen."
-      ],
-      "finalPhotos": [
-        "aperol-close"
-      ]
-    },
-    {
-      "id": "close-drinks",
-      "title": "Abbau Getränke & Lager",
-      "group": "close",
-      "tasks": [
-        {
-          "id": "drinks-close-collect",
-          "label": "Restbestände aus allen Verkaufsbereichen einsammeln",
-          "info": [
-            "Getränke und Leergut an der Alea, an der schwarzen Bar und an der Aperol Bar einsammeln. Den zusätzlichen Kühlschrank an Kasse 3 einbeziehen, wenn er aufgebaut war."
-          ],
-          "order": 1
-        },
-        {
-          "id": "drinks-close-sort",
-          "label": "Getränke und Leergut sortieren",
-          "info": [
-            "Volle Gebinde, angebrochene Bestände und Leergut geordnet voneinander trennen. Die Bestände nach Getränkesorte zusammenstellen."
-          ],
-          "order": 2
-        },
-        {
-          "id": "drinks-close-store",
-          "label": "Getränke an die vorgesehenen Lagerplätze zurückbringen",
-          "info": [
-            "Getränke entsprechend ihrer Zuordnung zurücklagern. Kühlpflichtige Ware wieder in die vorgesehene Kühlung bringen.",
-            "Rotwein im Trockenlager Unikat oder im Kellerlager im Studierendenhaus zurückstellen. Der Schlüssel für das Kellerlager im Studierendenhaus befindet sich in der Küche des UNIKAT.",
-            "Bestände für den Keller Audimax dorthin zurückbringen; der blaue Schlüssel beziehungsweise Chip gehört in der Alea ins Regal neben der Spüle."
-          ],
-          "order": 3
-        },
-        {
-          "id": "drinks-close-food",
-          "label": "Restwaren mit der Unikat-Küche abstimmen",
-          "info": [
-            "Übrige Sandwiches, Baguettes und Brezen nach dem betrieblich festgelegten Ablauf versorgen. Rücklagerung oder weiterer Umgang werden mit der Küche abgestimmt."
-          ],
-          "order": 4
-        },
-        {
-          "id": "drinks-close-drawers",
-          "label": "Kassenladen nach dem Kassenabschluss zurückbringen",
-          "info": [
-            "Die freigegebenen Kassenladen nach dem betrieblichen Übergabeablauf ins Büro des Unikats zurückbringen. Die Zuordnung der Kassen beachten."
-          ],
-          "order": 5
-        },
-        {
-          "id": "drinks-close-cloths",
-          "label": "Benutzte Handtücher und Lappen abgeben",
-          "info": [
-            "Benutzte Handtücher und Lappen getrennt von sauberer Wäsche zur vorgesehenen Wäschesammelstelle bringen."
-          ],
-          "order": 6
-        },
-        {
-          "id": "drinks-close-cart",
-          "label": "Transportwagen zurückstellen",
-          "info": [
-            "Den Transportwagen leeren und in den Betriebsbereich des Unikats zurückbringen."
-          ],
-          "order": 7
-        },
-        {
-          "id": "drinks-close-order",
-          "label": "Lager aufräumen und Schlüssel zurücklegen",
-          "info": [
-            "Kästen und Leergut geordnet abstellen, Laufwege freihalten und das Lager mit dem Zielbild abgleichen.",
-            "Alle verwendeten Schlüssel und Chips an ihre vorgesehenen Plätze zurücklegen."
-          ],
-          "order": 8
-        }
-      ],
-      "notes": [
-        "Aus den Aufbau-Checklisten abgeleiteter Entwurf. Rückgabeplätze und Geräteabschluss vor dem ersten Einsatz mit der Einsatzleitung abgleichen."
-      ],
-      "finalPhotos": [
-        "cellar-stock-wide",
-        "cellar-stock"
       ]
     }
   ],
@@ -2032,20 +1764,6 @@ window.AUDIMAX_DATA = {
       "category": "Lagerplätze und Arbeitsmittel"
     },
     {
-      "id": "aperol-setup",
-      "title": "Aperol Bar",
-      "state": "Aufgebaut",
-      "src": "",
-      "category": "Lagerplätze und Arbeitsmittel"
-    },
-    {
-      "id": "aperol-close",
-      "title": "Aperol Bar",
-      "state": "Aufgeräumt",
-      "src": "",
-      "category": "Lagerplätze und Arbeitsmittel"
-    },
-    {
       "id": "oven-close",
       "title": "Backraum",
       "state": "Aufgeräumt",
@@ -2081,20 +1799,6 @@ window.AUDIMAX_DATA = {
       "category": "Lagerplätze und Arbeitsmittel"
     },
     {
-      "id": "drinks-black",
-      "title": "Getränkenachschub · schwarze Bar",
-      "state": "Bereitgestellt",
-      "src": "",
-      "category": "Lagerplätze und Arbeitsmittel"
-    },
-    {
-      "id": "drinks-alea",
-      "title": "Getränkenachschub · Alea",
-      "state": "Bereitgestellt",
-      "src": "",
-      "category": "Lagerplätze und Arbeitsmittel"
-    },
-    {
       "id": "alea-tables-stored",
       "title": "Stehtische und Stühle Alea",
       "state": "Gesichert · Endzustand",
@@ -2111,8 +1815,8 @@ window.AUDIMAX_DATA = {
     {
       "id": "cellar-return-pallets",
       "title": "Leergutpaletten Audimax-Keller",
-      "state": "Nach Lieferanten getrennt gestapelt",
-      "src": "",
+      "state": "Referenz · Lagerplätze im Audimax-Keller",
+      "src": "assets/photos/cellar-stock-detail.jpg",
       "category": "Aufgeräumte Bereiche"
     },
     {
@@ -2135,6 +1839,62 @@ window.AUDIMAX_DATA = {
       "state": "In H2 · Glasfront zur Wand",
       "src": "",
       "category": "Aufgeräumte Bereiche"
+    },
+    {
+      "id": "coffee-controls-pending",
+      "title": "Kaffeemaschine und Kaffeemühle",
+      "state": "Detailfoto wird nachgereicht",
+      "src": "",
+      "category": "Lagerplätze und Arbeitsmittel"
+    },
+    {
+      "id": "dishwasher-controls-pending",
+      "title": "Spülmaschine",
+      "state": "Detailfoto wird nachgereicht",
+      "src": "",
+      "category": "Lagerplätze und Arbeitsmittel"
+    },
+    {
+      "id": "alea-registers-staff-pending",
+      "title": "Alea-Kassenstationen",
+      "state": "Ansicht aus Sicht des Personals · Foto wird nachgereicht",
+      "src": "",
+      "category": "Lagerplätze und Arbeitsmittel"
+    },
+    {
+      "id": "alea-prices-marked",
+      "title": "Alea · Preisschilder",
+      "state": "Preistafeln gelb markiert",
+      "src": "assets/photos/alea-prices-marked.png",
+      "category": "Aufbau und Verkaufsbereiche"
+    },
+    {
+      "id": "pustet-ready",
+      "title": "Vorbestellungsbereich Pustet",
+      "state": "Aufgebaut",
+      "src": "assets/photos/pustet-ready.jpg",
+      "category": "Aufbau und Verkaufsbereiche"
+    },
+    {
+      "id": "alea-registers-marked",
+      "title": "Alea · Kassenstationen",
+      "state": "Terminal und Snackbox gelb markiert · Vorderansicht",
+      "src": "assets/photos/alea-registers-marked-v2.png",
+      "category": "Aufbau und Verkaufsbereiche"
+    },
+    {
+      "id": "alea-coffee-marked",
+      "title": "Alea · Kaffeestation",
+      "state": "Gesamter Bereich von Zuckeretagere bis Rührstäbchen gelb markiert",
+      "src": "assets/photos/alea-coffee-marked-v3.png",
+      "category": "Aufbau und Verkaufsbereiche"
+    },
+    {
+      "id": "alea-display-marked",
+      "title": "Alea · Glasvitrine und Getränkedisplay",
+      "state": "Vitrine und Getränkeflaschen gelb markiert",
+      "src": "assets/photos/alea-display-marked.png",
+      "category": "Aufbau und Verkaufsbereiche"
     }
   ],
   "videos": [

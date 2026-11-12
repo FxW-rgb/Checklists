@@ -1,6 +1,6 @@
 # Aktuelle Checklisten
 
-Stand: 11. November 2026. Aufbau, Abbau Alea und Schwarze Bar sowie Pausenvorbereitung und Vorbestellungen folgen den bereitgestellten Inhalten. Abbau Aperol Bar und Getränke/Lager bleiben Entwürfe.
+Stand: 12. November 2026. Sieben Checklisten für Aufbau, Pausenvorbereitung, Vorbestellungen und Abbau.
 
 ## Aufbau
 
@@ -14,10 +14,16 @@ Jede Kassenstation möglichst mit zwei Mitarbeitenden besetzen: eine Person für
 
 - [ ] **1. Material und Waren aus dem UNIKAT holen**
   - Wenn das UNIKAT geschlossen ist, befindet sich der Zugangsschlüssel am Alea-Schlüsselbund im Schlüsselsafe.
-  - Für den Transport kann einer der beiden bereitstehenden Wagen genutzt werden. Die benötigten Kassen mit der Einsatzleitung abstimmen: Alea nutzt Kassen 1–3, die schwarze Bar Kassen 4–5.
+  - Für den Transport kann einer der beiden bereitstehenden Wagen genutzt werden. Die benötigten Kassen mit der Schichtleitung abstimmen.
 
   - [ ] **Kassenladen holen**
-    - Die Kassenladen befinden sich im Büroschrank im UNIKAT. Dafür wird der Hundeschlüssel benötigt. Nur die für den Einsatz vorgesehenen Kassenladen mitnehmen.
+    - Die Kassenladen befinden sich im Büroschrank im UNIKAT. Dafür wird der Hundeschlüssel benötigt.
+    - Die Anzahl der Kassenstationen hängt vom Gästeaufkommen, dem Personaleinsatz und der Art der Veranstaltung ab. Wenn viele Gäste innerhalb kurzer Zeit eintreffen, möglichst mehr Kassenstationen einsetzen.
+    - Unter 650 Gästen: Kassenladen 1 und 2 an der Alea verwenden.
+    - Bei 650–850 Gästen: Kassenladen 1–3 verwenden. Kassenladen 1 und 2 stehen an der Alea; Kassenlade 3 wird an der schwarzen Bar mit Kassentablet 4 und EC-Gerät 4 eingesetzt.
+    - Bei 851–1.000 Gästen: Kassenladen 1–4 verwenden, drei an der Alea und eine an der schwarzen Bar.
+    - Bei mehr als 1.000 Gästen: Kassenladen 1–5 verwenden, drei an der Alea und zwei an der schwarzen Bar.
+    - Stets die Hinweise und Vorgaben beachten, die im Büro hinterlegt sind.
 
   - [ ] **Spültücher und Mikrofasertücher holen**
     - Die Tücher liegen in den entsprechenden Ablagen im Waschraum. In der Regel werden je sieben Spültücher und Mikrofasertücher benötigt.
@@ -39,14 +45,12 @@ Jede Kassenstation möglichst mit zwei Mitarbeitenden besetzen: eine Person für
   - Einsatzbedingung: Nur bei mehr als 1.000 Gästen
   - Den Kühlschrank an Kasse 3 aufstellen und anschließen. Zieltemperatur und Beleuchtung werden an der Rückseite eingestellt.
   - Mit vorgekühlten Getränken aus dem Getränkekühlhaus im UNIKAT befüllen. Häufig nachgefragte Getränke weiter oben einsortieren.
-  - Anleitung: Kühlschrank Kasse 3: Temperatur und Licht
   - Foto: Zusatzkühlschrank und Personenleitsystem · Verstaut
   - Bild noch offen: Kühlschrank Kasse 3 · Aufgebaut
 
 - [ ] **4. Thekenkühlschrank in Betrieb nehmen**
   - Im Thekenkühlschrank werden in der Regel die Weinschorlen gelagert.
   - Den kleinen Strahler auf dem Kühlschrank platzieren und auf den ALEA-Schriftzug ausrichten.
-  - Foto: Strahler · Ablage im Backraum
   - Bild noch offen: Thekenkühlschrank · Stecker und Schalter – Markierungen folgen
 
 - [ ] **5. Fernseher einschalten**
@@ -55,81 +59,86 @@ Jede Kassenstation möglichst mit zwei Mitarbeitenden besetzen: eine Person für
 - [ ] **6. Kaffeemaschine und Kaffeemühle einschalten**
   - Die Kaffeemaschine benötigt etwa 15 Minuten zum Vorheizen.
   - Die Temperaturen von Brühgruppen und Boiler über „Funktion → Information → Temperaturen“ abrufen.
-  - Anleitung: Kaffeemaschine und Kaffeemühle
+  - Bild noch offen: Kaffeemaschine und Kaffeemühle · Detailfoto wird nachgereicht
 
 - [ ] **7. Spülmaschine einschalten**
   - Die Spülmaschine muss sich zunächst mit Wasser füllen. Dies dauert in der Regel bis zu zehn Minuten.
   - Spülmittel und Klarspüler werden aus den Kanistern rechts neben der Maschine bezogen. Die Füllstände prüfen.
+  - Bild noch offen: Spülmaschine · Detailfoto wird nachgereicht
 
 - [ ] **8. Backöfen vorheizen und Backwaren aufbacken**
-  - Die Voreinstellung passend zur Backware wählen. Die Backanleitung und die verknüpften Anleitungsvideos verwenden.
+  - Das passende Backprogramm für Cookies oder Brezen wählen. Die beiden verknüpften Anleitungen beschreiben die einzelnen Schritte.
   - Wenn Cookies angeboten werden, diese zuerst aufbacken, damit sie anschließend auskühlen können.
-  - Anleitung: Brezen und Cookies aufbacken
+  - Anleitung: Cookies aufbacken
+  - Anleitung: Brezen aufbacken
   - Foto: Backöfen · Backraum Alea
   - Foto: Backanleitung · Programmöbersicht am Ofen
 
   - [ ] **Cookies aufbacken und auskühlen lassen**
     - Einsatzbedingung: Wenn Cookies angeboten werden
+    - Anleitung: Cookies aufbacken
 
   - [ ] **Brezen aufbacken**
+    - Anleitung: Brezen aufbacken
 
-- [ ] **9. Musik und Beleuchtung einschalten**
-  - Die Musik über die Sonos-App auf dem Alea-Kassentablet starten.
-  - Wenn auch die schwarze Bar in Betrieb ist, die Musik über die Tonique-App synchronisieren. Standardauswahl: „Funky Bar“.
-  - Die Beleuchtung über die entsprechende App auf Kasse 1 einschalten.
-  - Anleitung: Musik und Beleuchtung
-  - Foto: Alea-Kassentablet · Standort im Backraum
-
-- [ ] **10. Getränkeschübe und Kühlschränke prüfen**
-  - Einsatzbedingung: Auffüllen: bei Bedarf
+- [ ] **9. Getränkeschübe und Kühlschränke prüfen**
   - Die Getränkebestände prüfen und fehlende Getränke auffüllen. Der Thekenkühlschrank enthält in der Regel Weinschorlen.
   - Den Zusatzkühlschrank an Kasse 3 einbeziehen, wenn er aufgebaut ist. Dort alle angebotenen Getränke vorgekühlt aus dem UNIKAT bereitstellen.
   - Anleitung: Getränke und Lager
 
-- [ ] **11. Personenleitsystem aufbauen**
+- [ ] **10. Personenleitsystem aufbauen**
   - Einsatzbedingung: Bei mehr als 600 Gästen
   - Das Personenleitsystem steht entlang der Wand Richtung Garderobe.
   - Brandschutz: Das Personenleitsystem darf nur bis auf Höhe der ersten Betonsäule in den Gang hineinragen.
   - Foto: Alea · Aufgebaut · Vorderansicht
   - Foto: Zusatzkühlschrank und Personenleitsystem · Verstaut
 
-- [ ] **12. Tische aufsperren, abwischen und vorbereiten**
+- [ ] **11. Tische aufsperren, abwischen und vorbereiten**
   - Der Schlüssel für die Tischschlösser befindet sich am Alea-Schlüsselbund.
   - Die Tische abwischen und die roten Tischlampen auf den Tischen rund um die Alea verteilen.
 
-- [ ] **13. Theke und Arbeitsflächen vorbereiten**
-  - Theke und Arbeitsflächen für den Aufbau freiräumen und sauber bereitstellen.
+- [ ] **12. Theke und Arbeitsflächen reinigen**
+  - Theke und Arbeitsflächen freiräumen und reinigen.
 
-- [ ] **14. Kassenstationen vollständig aufbauen**
-  - Kassen 1–3 von rechts nach links Richtung Garderobe anordnen. iPad, EC-Gerät und Kassenlade müssen dieselbe Kassennummer haben.
-  - iPad und Snackbox nur bei besetzter Kasse auf die Theke stellen. Sonst auf der Arbeitsfläche bereithalten; die Snackbox steht neben der Kassenlade.
-  - Anleitung: Kassenstationen und Snackboxen
-  - Foto: Catering-Kassen · Ablage im Backraum
-  - Foto: Alea · Aufgebaut · Thekenbereich
+- [ ] **13. Kassenstationen vollständig aufbauen**
+  - Kassentablets 1–3 von rechts nach links Richtung Garderobe anordnen. Kassentablet und EC-Gerät müssen dieselbe Kassennummer haben.
+  - Die Kassenlade sollte dieselbe Nummer haben. Bei abweichender Zuordnung die Kassenladen immer in aufsteigender Reihenfolge verwenden.
+  - Die Kassentablets können auf der Theke oder auf der Arbeitsfläche stehen – je nachdem, wo sie sich am ergonomischsten bedienen lassen. Nur das EC-Lesegerät muss für Gäste zugänglich auf der Theke bereitliegen.
+  - Foto: Alea · Kassenstationen · Terminal und Snackbox gelb markiert · Vorderansicht
+  - Bild noch offen: Alea-Kassenstationen · Ansicht aus Sicht des Personals · Foto wird nachgereicht
 
-  - [ ] **iPad, EC-Gerät und Kassenlade zuordnen**
+  - [ ] **Kassentablet und EC-Gerät zuordnen, Kassenlade bereitstellen**
 
   - [ ] **Trinkgeldglas mit Aufsteller bereitstellen**
 
   - [ ] **Zwei Flaschenöffner und ein Gefäß für Kronkorken bereitstellen**
 
   - [ ] **Snackbox und Brezenständer mit Servietten bereitstellen**
-    - Einsatzbedingung: Snackbox auffüllen: bei Bedarf
     - Den Inhalt der Snackbox prüfen und fehlende Ware ergänzen.
+
+- [ ] **14. Musik und Beleuchtung einschalten**
+  - Die Musik über die Sonos-App auf dem Alea-Kassentablet starten.
+  - Wenn auch die schwarze Bar in Betrieb ist, die Musik über die Tonique-App synchronisieren. Standardauswahl: „Funky Bar“.
+  - Die Beleuchtung über die entsprechende App auf Kasse 1 einschalten.
+  - Anleitung: Musik und Beleuchtung
+  - Foto: Alea-Kassentablet · Standort im Backraum
 
 - [ ] **15. Preisschilder aufhängen**
   - Die Preisschilder stehen im Backraum Alea zwischen Kühlschrank und Gefriertruhe.
   - Die Schilder sind mit „Kasse 1“ und „Kasse 2“ gekennzeichnet. Auf die richtige Zuordnung achten.
+  - Foto: Alea · Preisschilder · Preistafeln gelb markiert
 
 - [ ] **16. Kaffeestation für das Team vorbereiten**
   - Für die Zwischenreinigung der Dampflanze ein gelbes Mikrofasertuch bereitlegen.
   - Kaffee wird im Catering grundsätzlich in Pappbechern ausgegeben. Vorräte befinden sich im Backraum Alea und im Serverraum UNIKAT.
   - Im Catering werden grundsätzlich keine veganen Milchalternativen angeboten.
   - Anleitung: Kaffeemaschine und Kaffeemühle
+  - Foto: Alea · Kaffeestation · Gesamter Bereich von Zuckeretagere bis Rührstäbchen gelb markiert
   - Foto: Pappbecher · Ablage im Backraum
 
 - [ ] **17. Kaffeestation für Gäste vorbereiten**
   - Zucker, Rührstäbchen und Strohhalme an zentraler Stelle bereitstellen.
+  - Foto: Alea · Kaffeestation · Gesamter Bereich von Zuckeretagere bis Rührstäbchen gelb markiert
 
 - [ ] **18. Sekt- und Weinstation vorbereiten**
   - Ausreichend Wein- und Sektgläser auf der Arbeitsfläche vor dem Fernseher bereitstellen.
@@ -139,12 +148,11 @@ Jede Kassenstation möglichst mit zwei Mitarbeitenden besetzen: eine Person für
   - Die Beleuchtung der Vitrine über die Steckverbindung unter der Theke einschalten.
   - Die vorbereiteten italienischen Baguettes mit einer Serviette auf einem Pappteller oder in einer Papiertüte bereitstellen. Cookies auf Servierplatten anrichten.
   - Auf der Vitrine je eine Flasche jedes angebotenen Getränks in die entsprechenden Displays stellen.
-  - Foto: Alea · Aufgebaut · Thekenbereich
+  - Foto: Alea · Glasvitrine und Getränkedisplay · Vitrine und Getränkeflaschen gelb markiert
   - Bild noch offen: Glasvitrine · Steckverbindung der Beleuchtung
 
 - [ ] **20. Abtrockenstation vorbereiten**
   - Auf der Theke Richtung Damentoiletten zwei Handtücher auslegen. Darauf werden die Racks aus der Spülmaschine zum Polieren abgestellt.
-  - Foto: Alea · Aufgebaut · Vorderansicht
   - Foto: Alea · Aufgebaut · Thekenbereich
   - Foto: Alea · Aufgebaut · Gesamtansicht
 
@@ -168,27 +176,25 @@ Ab etwa 650 Gästen werden ein Thekenelement mit Kühlschüben und das Kühlschr
 - [ ] **1. Schwarze Bar aufbauen und in Betrieb nehmen**
   - Kühlschrankelement und Mittelelement stehen in H2. Die beiden Kühlelemente mit Getränkeschüben befinden sich im Audimax-Lager Galerie.
   - Die benötigten Elemente entsprechend dem Gästeaufkommen aufbauen und anschließen.
-  - Anleitung: Schwarze Bar: Elemente
   - Foto: Kühlschrank- und Mittelelement · Lagerplatz in H2
   - Foto: Schwarze Bar · Aufgebaut · ein Kühlelement
   - Foto: Schwarze Bar · Aufgebaut · zwei Kühlelemente
 
-- [ ] **2. Theke und Arbeitsflächen vorbereiten**
-  - Theke und Arbeitsflächen für den Aufbau freiräumen und sauber bereitstellen.
+- [ ] **2. Theke und Arbeitsflächen reinigen**
+  - Theke und Arbeitsflächen freiräumen und reinigen.
 
 - [ ] **3. Kassenstationen vollständig aufbauen**
-  - An der schwarzen Bar werden Kassen 4–5 eingesetzt. iPad, EC-Gerät und Kassenlade müssen dieselbe Kassennummer haben.
-  - iPad und Snackbox nur bei besetzter Kasse auf die Theke stellen. Sonst auf der Arbeitsfläche außerhalb des Sichtbereichs der Gäste bereithalten.
-  - Anleitung: Kassenstationen und Snackboxen
+  - An der schwarzen Bar werden Kassentablets 4–5 eingesetzt. Kassentablet und EC-Gerät müssen dieselbe Nummer haben.
+  - Die Kassenlade kann eine andere Nummer haben. An der schwarzen Bar immer die höchsten der für den Einsatz verwendeten Kassenladennummern einsetzen.
+  - Die Kassentablets können auf der Theke oder auf der Arbeitsfläche stehen – je nachdem, wo sie sich am ergonomischsten bedienen lassen. Nur das EC-Lesegerät muss für Gäste zugänglich auf der Theke bereitliegen.
 
-  - [ ] **iPad, EC-Gerät und Kassenlade zuordnen**
+  - [ ] **Kassentablet und EC-Gerät zuordnen, Kassenlade bereitstellen**
 
   - [ ] **Trinkgeldglas mit Aufsteller bereitstellen**
 
   - [ ] **Zwei Flaschenöffner und ein Gefäß für Kronkorken bereitstellen**
 
   - [ ] **Snackbox und Brezenständer mit Servietten bereitstellen**
-    - Einsatzbedingung: Snackbox auffüllen: bei Bedarf
     - Den Inhalt der Snackbox prüfen und fehlende Ware ergänzen.
 
 - [ ] **4. Getränkedisplay aufbauen**
@@ -211,38 +217,18 @@ Ab etwa 650 Gästen werden ein Thekenelement mit Kühlschüben und das Kühlschr
   - Rund um das Steinerne Meer Aufenthaltsbereiche mit Holzkisten, Kissen und einzelnen Tischlampen gestalten. Kisten und Kissen befinden sich in H2.
   - Einen Getränkekistenständer mit leeren Getränkekisten für die Leergutrückgabe aufstellen. Der Kistenständer steht ebenfalls in H2.
   - Foto: Steinernes Meer · Sitzbereiche vorbereitet
-  - Foto: Pausenvorbestellungen · Tische und Areale
 
 - [ ] **8. Vorbestellungsareale vorbereiten**
   - Auf der Bestellseite der jeweiligen Veranstaltung prüfen, welche Areale freigeschaltet sind.
   - Jeden Stehtisch mit dem passenden Tischaufsteller versehen und einzelne Tischlampen verteilen.
   - In jedem Areal einen Vorbestellungsbanner mit Strahler aufstellen. Die Banner befinden sich im Backraum Alea.
   - [Veranstaltung und Vorbestellungsareale ansehen](https://audimax-events.de/)
-  - Foto: Tischschilder und Lampen · Ablage im Backraum
   - Foto: Strahler · Ablage im Backraum
   - Foto: Pausenvorbestellungen · Banner und Strahler
   - Foto: Pausenvorbestellungen · Tische und Areale
+  - Foto: Vorbestellungsbereich Pustet · Aufgebaut
 
 Zum Abschluss: Schwarze Bar · Aufgebaut · ein Kühlelement; Schwarze Bar · Verkaufsbereit · zwei Kühlelemente; Steinernes Meer · Sitzbereiche vorbereitet.
-
-### Aufbau Aperol Bar
-
-- [ ] **1. Aperol Bar vorbereiten**
-  - Anleitung: Aperol Bar aufbauen & aufräumen
-
-  - [ ] **Position und sichere Laufwege prüfen**
-    - Anleitung: Aperol Bar aufbauen & aufräumen
-
-  - [ ] **Arbeitsbereich vollständig und standsicher aufbauen**
-    - Anleitung: Aperol Bar aufbauen & aufräumen
-
-  - [ ] **Arbeitsflächen reinigen**
-    - Anleitung: Aperol Bar aufbauen & aufräumen
-
-- [ ] **2. Ausstattung nach betrieblicher Vorgabe bereitstellen**
-  - Anleitung: Aperol Bar aufbauen & aufräumen
-
-- [ ] **3. Aufbau mit dem Zielbild abgleichen**
 
 ### Vorbereitung Getränke und Lager
 
@@ -298,20 +284,20 @@ Die Getränkekühlung möglichst früh auffüllen, damit die Getränke bis Pause
 
 - [ ] **4. Snackboxen auffüllen und Brezennachschub vorbereiten**
   - Die Snackboxen für den Pausenverkauf auffüllen. Den Brezenbestand prüfen und fehlende Brezen rechtzeitig aufbacken.
-  - Anleitung: Brezen und Cookies aufbacken
+  - Anleitung: Brezen aufbacken
 
   - [ ] **Snackboxen auffüllen**
 
   - [ ] **Brezen erneut aufbacken**
     - Einsatzbedingung: Bei Bedarf
-    - Anleitung: Brezen und Cookies aufbacken
+    - Anleitung: Brezen aufbacken
 
 - [ ] **5. Kaffeemaschine reinigen und ausschalten**
   - Kaffee wird nur im Vorverkauf vor der Veranstaltung angeboten. Die Kaffeemaschine für den Pausenverkauf nicht weiter betreiben.
   - Achtung: Größere Mengen Milch und insbesondere Kaffeesatz beeinträchtigen die Reinigungsleistung der Spülmaschine. Kaffeesatz und Milchreste vor dem Spülen entfernen.
   - Anleitung: Kaffeemaschine und Kaffeemühle
 
-  - [ ] **Kaffeesatz-Einlage entleeren und reinigen**
+  - [ ] **Abklopfbehälter entleeren und reinigen**
 
   - [ ] **Kaffeemaschine mit Blindsieb reinigen**
     - Die Reinigung mit Blindsieb nach der vorhandenen Geräteeinweisung durchführen.
@@ -335,35 +321,36 @@ Die Vorbestellungen nach Veranstaltungsbeginn prüfen und mit Blick auf die ange
   - Einsatzbedingung: Etwa 10 Minuten nach Veranstaltungsbeginn
   - Die Vorbestellungen am PC im Backraum Alea aufrufen.
   - Auf audimax-events.de den Admin-Bereich öffnen: Vorbestellungen → Druckansicht → Bon 80 mm. In den Druckeinstellungen das Papierformat 80 × 150 mm wählen und drucken.
-  - Vorbestellungen für Pinsen und Antipasti direkt an die Küche weitergeben. Als Zielzeit zehn Minuten vor Pausenbeginn angeben.
-  - Anleitung: Pausenvorbestellungen
   - [audimax-events.de öffnen](https://www.audimax-events.de/)
   - Foto: Catering-Kassen · Ablage im Backraum
 
-- [ ] **2. Vorbestellungen vorbereiten und an die Tische bringen**
-  - Einsatzbedingung: Etwa 15 Minuten vor Pausenbeginn beginnen
-  - Die Getränke auf Tabletts bereitstellen: Flaschen öffnen, die Kronkorken jedoch auf den Flaschen belassen. Die Tabletts etwa fünf bis zehn Minuten vor Pausenbeginn an die zugehörigen Tische bringen.
-  - Vorbestellte Pinsen und Antipasti etwa zehn Minuten vor Pausenbeginn aus der Küche holen und ebenfalls an die Tische bringen. Servietten dazulegen.
-  - Jeder Tisch mit Vorbestellung muss den passenden Tischaufsteller mit Tischnummer haben. Nach Möglichkeit eine eingeschaltete Tischlampe dazustellen.
-  - Anleitung: Pausenvorbestellungen
+- [ ] **2. Küche informieren**
+  - Einsatzbedingung: Etwa 10 Minuten nach Veranstaltungsbeginn
+  - Die Küche hinsichtlich der vorbestellten Speisen informieren.
+  - Eine Abholzeit etwa zehn Minuten vor Pausenbeginn vereinbaren. Im Zweifel die Pausenzeiten mit dem Veranstalter oder der Security abklären.
+
+- [ ] **3. Getränke vorbereiten**
+  - Einsatzbedingung: Etwa 15 Minuten vor Pausenbeginn
+  - Getränke entsprechend den Vorbestellungen auf Tabletts bereitstellen. Die Flaschen öffnen und die Kronkorken auf den Flaschen belassen.
+
+- [ ] **4. Speisen aus der Küche holen**
+  - Einsatzbedingung: Etwa 10 Minuten vor Pausenbeginn
+  - Vorbestellte Pinsen und Antipasti zur vereinbarten Zeit aus der Küche holen. Servietten mitnehmen.
+
+- [ ] **5. Vorbestellungen an die Tische bringen**
+  - Einsatzbedingung: Etwa 10 Minuten vor Pausenbeginn
+  - Getränke und Speisen an die zugehörigen Tische bringen. Jeder Tisch mit Bestellung muss den passenden Tischaufsteller mit Tischnummer haben.
+  - An Tischen mit Bestellung sollte nach Möglichkeit eine eingeschaltete Lampe stehen.
+  - Am Tisch die Bestellung nochmals auf Vollständigkeit prüfen.
   - Foto: Pausenvorbestellungen · Tische und Areale
-  - Foto: Tischschilder und Lampen · Ablage im Backraum
-
-  - [ ] **Getränke auf Tabletts vorbereiten und verteilen**
-    - Einsatzbedingung: An die Tische: 5–10 Minuten vor Pausenbeginn
-
-  - [ ] **Pinsen und Antipasti abholen und mit Servietten verteilen**
-    - Einsatzbedingung: Etwa 10 Minuten vor Pausenbeginn
-
-  - [ ] **Tischnummern und eingeschaltete Tischlampen prüfen**
 
 ## Abbau
 
-### Abbau Alea (inkl. Garderobe)
+### Abbau Alea
 
-Die Checkliste umfasst Rückbau, Reinigung und Abschluss der Alea einschließlich Garderobe sowie Müll- und Leergutentsorgung.
+Die Checkliste umfasst Rückbau, Reinigung und Abschluss der Alea sowie Müll- und Leergutentsorgung.
 
-Schritte 01–09 können vor Veranstaltungsende erledigt werden, soweit der laufende Betrieb dies zulässt. Schritte 10–18 folgen nach Veranstaltungsende.
+Die Schritte bis einschließlich „Backraum Alea reinigen und aufräumen“ bereits vor Veranstaltungsende erledigen. Anschließend die Flaschen und Gläser nach Veranstaltungsende einsammeln und die abschließenden Spül-, Entsorgungs- und Schließarbeiten durchführen.
 
 Backöfen frühzeitig ausschalten und vor der Reinigung ausreichend abkühlen lassen. Achtung: Verbrennungsgefahr!
 
@@ -375,7 +362,7 @@ Backöfen frühzeitig ausschalten und vor der Reinigung ausreichend abkühlen la
   - Foto: Backöfen · Backraum Alea
 
 - [ ] **2. Getränkebestand auffüllen**
-  - Einsatzbedingung: Vor Veranstaltungsende, soweit der Betrieb es zulässt
+  - Einsatzbedingung: Vor Veranstaltungsende
   - Sämtliche Getränkebestände der Alea kontrollieren und Fehlbestände vollständig auffüllen.
   - Beim Auffüllen der Kühlelemente auf Sauberkeit achten. Verunreinigungen sofort entfernen.
   - Zunächst die bereitgestellten vollen Getränkekästen verwenden. Reichen diese nicht aus, weitere Getränke aus dem Lager Audimax Keller holen.
@@ -387,7 +374,7 @@ Backöfen frühzeitig ausschalten und vor der Reinigung ausreichend abkühlen la
   - Foto: Zusatzkühlschrank und Personenleitsystem · Verstaut
 
 - [ ] **3. Flaschen und Gläser einsammeln**
-  - Einsatzbedingung: Vor Veranstaltungsende, soweit der Betrieb es zulässt
+  - Einsatzbedingung: Vor Veranstaltungsende
   - Sämtliche leeren Flaschen und Gläser im Bereich der Alea und des Foyers einsammeln.
   - Insbesondere die Stehtische und sonstigen Abstellflächen kontrollieren.
   - Leere Flaschen nach Getränkesorten in die entsprechenden Leergutkästen sortieren.
@@ -395,7 +382,7 @@ Backöfen frühzeitig ausschalten und vor der Reinigung ausreichend abkühlen la
   - Eingesammelte Gläser zum Spülen in die Alea bringen.
 
 - [ ] **4. Stehtische und Sitzbereiche aufräumen**
-  - Einsatzbedingung: Vor Veranstaltungsende, soweit der Betrieb es zulässt
+  - Einsatzbedingung: Vor Veranstaltungsende
   - Sämtliche Stehtische im Bereich der Alea abwischen und reinigen.
   - Tischlampen einsammeln und an den vorgesehenen Lagerplätzen verstauen.
   - Stehtische und Stühle entsprechend dem vorgesehenen Endzustand anordnen.
@@ -404,7 +391,7 @@ Backöfen frühzeitig ausschalten und vor der Reinigung ausreichend abkühlen la
   - Bild noch offen: Stehtische und Stühle Alea · Gesichert · Endzustand
 
 - [ ] **5. Gläser spülen und verräumen**
-  - Einsatzbedingung: Vor Veranstaltungsende, soweit der Betrieb es zulässt
+  - Einsatzbedingung: Vor Veranstaltungsende
   - Sämtliche eingesammelten Gläser möglichst zeitnah spülen und polieren.
   - Auch die noch auf den Arbeitsflächen der Alea stehenden Gläser einsammeln und verräumen.
   - Alle Gläser in die dafür vorgesehenen Racks einsortieren.
@@ -412,7 +399,7 @@ Backöfen frühzeitig ausschalten und vor der Reinigung ausreichend abkühlen la
   - Foto: Gläserracks und Verbrauchsmaterial · Geordnet im Backraum
 
 - [ ] **6. Arbeits- und Kassenstationen zurückbauen**
-  - Einsatzbedingung: Vor Veranstaltungsende, soweit der Betrieb es zulässt
+  - Einsatzbedingung: Vor Veranstaltungsende
   - Sämtliche Verkaufsstationen und Arbeitsbereiche an der Theke zurückbauen.
   - Snackboxen abräumen und bereits während des Abbaus vollständig auffüllen, damit sie beim nächsten Catering einsatzbereit sind.
   - Brezenständer abräumen und am vorgesehenen Lagerplatz verstauen.
@@ -423,32 +410,22 @@ Backöfen frühzeitig ausschalten und vor der Reinigung ausreichend abkühlen la
   - Foto: Backraum Alea · Aufgeräumt
   - Foto: Garderobenmaterial · Verstaut unter der Theke
 
-  - [ ] **Garderobe zurückbauen**
-    - Einsatzbedingung: Wenn die Garderobe aufgebaut war
-    - Nicht abgeholte Gegenstände mit der Einsatzleitung klären und geordnet übergeben.
-    - Aufsteller und Garderobenbox unter der Garderobentheke verstauen und den Bereich aufräumen.
-    - Foto: Garderobenmaterial · Verstaut unter der Theke
-
-  - [ ] **Übrige Speisen versorgen**
-    - Übrige italienische Baguettes, Brezen und Cookies nach dem betrieblichen Ablauf versorgen. Den Umgang mit Restwaren mit der UNIKAT-Küche abstimmen.
-
 - [ ] **7. Kassenabschluss vorbereiten**
-  - Einsatzbedingung: Schichtleitung · vor Veranstaltungsende, soweit möglich
-  - Die Kassen aus Alea und Schwarzer Bar für den Kassenabschluss zusammenführen.
-  - Der endgültige Kassenabschluss wird von Stacey durchgeführt.
+  - Einsatzbedingung: Schichtleitung · vor Veranstaltungsende
+  - Die Kassen aus Alea und schwarzer Bar für den Kassenabschluss zusammenführen.
   - Die Schichtleitung ist für die Entnahme und Verteilung des Trinkgelds verantwortlich.
-  - Kassenladen für den Transport ins Büro im Unikat bereitstellen oder direkt durch die Schichtleitung dorthin bringen.
-  - Für den Büroschrank im UNIKAT wird der Hundeschlüssel benötigt.
+  - Kassenladen in das Büro im UNIKAT bringen; Hundeschlüssel.
+  - Der endgültige Kassenabschluss wird von Steffi durchgeführt.
 
 - [ ] **8. Personenleitsystem zurückbauen**
-  - Einsatzbedingung: Vor Veranstaltungsende, soweit der Betrieb es zulässt
+  - Einsatzbedingung: Vor Veranstaltungsende
   - Sämtliche Elemente des Personenleitsystems abbauen und zusammenführen.
   - Das Personenleitsystem an der Wand der Alea in Richtung Garderobe abstellen.
   - Das Personenleitsystem wird am selben Ort wie der zurückgebaute Zusatzkühlschrank gelagert.
   - Foto: Zusatzkühlschrank und Personenleitsystem · Verstaut
 
 - [ ] **9. Musik, Beleuchtung und Technik ausschalten**
-  - Einsatzbedingung: Vor Veranstaltungsende, soweit der Betrieb es zulässt
+  - Einsatzbedingung: Vor Veranstaltungsende
   - Musikwiedergabe über die Tonique-App auf dem Tablet der Alea stoppen.
   - Licht in der Alea-Nische ausschalten.
   - Beleuchtung im Steinernen Meer über die entsprechende App auf Kassen-iPad 1 ausschalten.
@@ -457,45 +434,23 @@ Backöfen frühzeitig ausschalten und vor der Reinigung ausreichend abkühlen la
   - Thekenkühlschrank ausschalten und die zugehörige Beleuchtung verräumen.
   - Beleuchtung der Vitrine ausschalten.
 
-- [ ] **10. Flaschen und Gläser nach Veranstaltungsende einsammeln**
-  - Einsatzbedingung: Nach Veranstaltungsende
-  - Sofern Getränke in Flaschen mit in den Veranstaltungssaal genommen werden durften, den gesamten Saal nach Veranstaltungsende kontrollieren.
-  - Sämtliche zurückgelassenen Flaschen im Veranstaltungssaal einsammeln.
-  - Das Forum nach Veranstaltungsende erneut vollständig kontrollieren, da Gäste häufig weitere Flaschen und Gläser abstellen.
-  - Eingesammelte Flaschen nach Getränkesorten in die entsprechenden Leergutkästen sortieren.
-  - Eingesammelte Gläser spülen, polieren und in die vorgesehenen Racks einsortieren.
-  - Gläserracks anschließend im Backraum der Alea entsprechend dem Zielbild verstauen.
-  - Foto: Gläserracks und Verbrauchsmaterial · Geordnet im Backraum
-
-- [ ] **11. Arbeitsflächen und Schubladen reinigen**
-  - Einsatzbedingung: Nach Veranstaltungsende
-  - Sämtliche Edelstahl-Arbeitsflächen und Schubladen mit einem frischen Lappen, Wasser und Spülmittel gründlich reinigen.
+- [ ] **10. Arbeitsflächen, Fronten und Schubladen reinigen**
+  - Einsatzbedingung: Vor Veranstaltungsende
+  - Sämtliche Edelstahl-Arbeitsflächen, Fronten und Schubladen mit einem frischen Lappen, Wasser und Spülmittel gründlich reinigen.
   - Edelstahlflächen anschließend sofort trocken nachwischen, um Schlieren zu vermeiden.
   - Glasarbeitsflächen im Thekenbereich mit einem frischen Lappen und ausschließlich Wasser reinigen.
   - Glasflächen anschließend sorgfältig trocken nachwischen.
   - Sicherstellen, dass insbesondere die Glasplatten klar, sauber und frei von Beschlag und Schlieren sind.
 
-- [ ] **12. Arbeits- und Betriebsmittel verräumen**
-  - Einsatzbedingung: Nach Veranstaltungsende
+- [ ] **11. Arbeits- und Betriebsmittel verräumen**
+  - Einsatzbedingung: Vor Veranstaltungsende
   - Sämtliche Arbeits- und Betriebsmittel, die im Verkaufsbereich der Alea verbleiben, an den vorgesehenen Plätzen verstauen.
   - Die Anordnung der Materialien entsprechend dem Zielbild herstellen.
+  - Insbesondere die Betriebsmittel auf der Alea-Arbeitsfläche für den Tagesbetrieb an den vorgesehenen Plätzen bereitstellen.
   - Bild noch offen: Verkaufsbereich Alea · Arbeits- und Betriebsmittel verstaut
 
-  - [ ] **Kaffeeplatz reinigen und Kaffeemaschine sowie Kaffeemühle abschließen**
-    - Einsatzbedingung: Falls noch nicht während der Pausenvorbereitung erledigt
-    - Die Reinigung der Kaffeemaschine erfolgt bereits nach dem Vorverkauf im Rahmen der Pausenvorbereitung. Prüfen, ob Kaffeesatz-Einlage, Maschine mit Blindsieb, Ablaufschale, Siebträger, Milchkännchen und Dampflanze gereinigt wurden und die Maschine ausgeschaltet ist.
-    - Milch und andere Vorräte zurückräumen. Zucker, Rührstäbchen und Pappbecher verstauen. Die Kaffeemühle nach dem vorgesehenen Reinigungs- und Abschaltablauf außer Betrieb nehmen.
-    - Anleitung: Kaffeemaschine und Kaffeemühle
-
-- [ ] **13. Müll sammeln und Boden kehren**
-  - Einsatzbedingung: Nach Veranstaltungsende
-  - Sämtliche Abfälle aus dem Verkaufs- und Arbeitsbereich der Alea zusammentragen.
-  - Müll möglichst nach Papier, Restmüll und Glasmüll vorsortieren.
-  - Vorsortierten Müll für den späteren Abtransport bereitstellen.
-  - Den gesamten Boden im Thekenbereich mit einem Besen gründlich kehren.
-
-- [ ] **14. Backraum Alea reinigen und aufräumen**
-  - Einsatzbedingung: Nach Veranstaltungsende
+- [ ] **12. Backraum Alea reinigen und aufräumen**
+  - Einsatzbedingung: Vor Veranstaltungsende
   - Sämtliche Edelstahlflächen mit einem frischen Lappen, Wasser und Spülmittel reinigen und anschließend gründlich trocken nachwischen.
   - Alle Arbeits- und Betriebsmittel an den zugewiesenen Lagerplätzen verstauen.
   - Backöfen reinigen, sobald diese ausreichend abgekühlt sind.
@@ -505,7 +460,35 @@ Backöfen frühzeitig ausschalten und vor der Reinigung ausreichend abkühlen la
   - Foto: Backraum Alea · Aufgeräumt
   - Foto: Gläserracks und Verbrauchsmaterial · Geordnet im Backraum
 
-- [ ] **15. Müll entsorgen**
+- [ ] **13. Flaschen und Gläser nach Veranstaltungsende einsammeln**
+  - Einsatzbedingung: Nach Veranstaltungsende
+  - Sofern Getränke in Flaschen mit in den Veranstaltungssaal genommen werden durften, den gesamten Saal nach Veranstaltungsende kontrollieren.
+  - Sämtliche zurückgelassenen Flaschen im Veranstaltungssaal einsammeln.
+  - Das Forum nach Veranstaltungsende erneut vollständig kontrollieren, da Gäste häufig weitere Flaschen und Gläser abstellen.
+  - Eingesammelte Flaschen nach Getränkesorten in die entsprechenden Leergutkästen sortieren.
+  - Eingesammelte Gläser spülen, polieren und in die vorgesehenen Racks einsortieren.
+  - Gläserracks anschließend im Backraum der Alea entsprechend dem Zielbild verstauen.
+  - Foto: Gläserracks und Verbrauchsmaterial · Geordnet im Backraum
+
+- [ ] **14. Gläser, Kaffeetassen und Betriebsmittel spülen**
+  - Einsatzbedingung: Nach Veranstaltungsende
+  - Die nach Veranstaltungsende eingesammelten Gläser sowie Kaffeetassen und benutzte Betriebsmittel spülen.
+  - Insbesondere Zangen, Servierplatten, die Kaffeemehl-Auffangschale, den Tamper und die Siebträger berücksichtigen.
+
+- [ ] **15. Spülmaschine reinigen und ausschalten**
+  - Einsatzbedingung: Nach Veranstaltungsende
+  - Spülmaschine abpumpen.
+  - Filter und Sprüharme der Spülmaschine reinigen.
+  - Die Spülmaschine ausschalten.
+
+- [ ] **16. Müll sammeln und Boden kehren**
+  - Einsatzbedingung: Nach Veranstaltungsende
+  - Sämtliche Abfälle aus dem Verkaufs- und Arbeitsbereich der Alea zusammentragen.
+  - Müll möglichst nach Papier, Restmüll und Glasmüll vorsortieren.
+  - Vorsortierten Müll für den späteren Abtransport bereitstellen.
+  - Den gesamten Boden im Thekenbereich mit einem Besen gründlich kehren.
+
+- [ ] **17. Müll entsorgen**
   - Einsatzbedingung: Nach Veranstaltungsende
   - Sämtlichen gesammelten und vorsortierten Müll zu den entsprechenden Entsorgungsstellen bringen.
   - Glasmüll in den Glascontainern vor der zentralen Bushaltestelle entsorgen.
@@ -513,7 +496,7 @@ Backöfen frühzeitig ausschalten und vor der Reinigung ausreichend abkühlen la
   - Restmüll kann in allen entsprechend gekennzeichneten Restmülltonnen entsorgt werden.
   - Für den Abtransport kann der Aufzug zur Albertus-Magnus-Straße genutzt werden.
 
-- [ ] **16. Leergut ins Lager bringen**
+- [ ] **18. Leergut ins Lager bringen**
   - Einsatzbedingung: Nach Veranstaltungsende
   - Sämtliche Leergutkästen aus der Alea und der Schwarzen Bar in das Lager Audimax Keller transportieren und dort zur Abholung bereitstellen.
   - Der Schlüsselchip für das Lager befindet sich am blauen Schlüsselband.
@@ -523,24 +506,25 @@ Backöfen frühzeitig ausschalten und vor der Reinigung ausreichend abkühlen la
   - Auf einer Palette dürfen maximal fünf Getränkekästen übereinandergestapelt werden.
   - Sobald eine Palette vollständig gefüllt und zur Abholung bereit ist, eine entsprechende Nachricht im WhatsApp-Kanal „Eventcatering“ teilen.
   - Wenn Getränkebestände knapp werden, ebenfalls eine entsprechende Nachricht im WhatsApp-Kanal „Eventcatering“ teilen.
-  - Bild noch offen: Leergutpaletten Audimax-Keller · Nach Lieferanten getrennt gestapelt
+  - Foto: Leergutpaletten Audimax-Keller · Referenz · Lagerplätze im Audimax-Keller
 
-- [ ] **17. Spül- und Mikrofasertücher sowie Rollwagen ins Unikat bringen**
+- [ ] **19. Spül- und Mikrofasertücher sowie Rollwagen ins Unikat bringen**
   - Einsatzbedingung: Nach Veranstaltungsende
   - Sämtliche benutzten Spültücher und Mikrofasertücher einsammeln und ins Unikat bringen.
   - Benutzte Tücher in der dafür vorgesehenen Ablage im Waschraum zur Reinigung sammeln.
   - Sämtliche Rollwagen ins Unikat zurückbringen.
   - Rollwagen im Gang des Unikats an den vorgesehenen Stellen abstellen.
 
-- [ ] **18. Alea abschließen**
+- [ ] **20. Alea abschließen**
   - Einsatzbedingung: Abschließender Arbeitsschritt · nach Veranstaltungsende
   - Kontrollieren, ob sämtliche Arbeitsbereiche aufgeräumt, gereinigt und alle Materialien ordnungsgemäß verstaut sind.
+  - Prüfen, ob sämtliche Schlüssel – insbesondere das rote und das blaue Schlüsselband – im Regal rechts neben dem Fernseher liegen.
   - Sofern noch nicht erfolgt, sämtliche Lichter über die Lichtschalter neben der Tür zum Backraum Alea ausschalten.
   - Tor der Alea vollständig herunterfahren.
   - Backraum der Alea abschließen.
   - Schlüssel im Schlüsselsafe einschließen.
 
-Zum Abschluss: Backraum Alea · Aufgeräumt; Garderobenmaterial · Verstaut unter der Theke; Zusatzkühlschrank und Personenleitsystem · Verstaut; Stehtische und Stühle Alea · Gesichert · Endzustand (Bild noch offen); Verkaufsbereich Alea · Arbeits- und Betriebsmittel verstaut (Bild noch offen); Leergutpaletten Audimax-Keller · Nach Lieferanten getrennt gestapelt (Bild noch offen).
+Zum Abschluss: Backraum Alea · Aufgeräumt; Garderobenmaterial · Verstaut unter der Theke; Zusatzkühlschrank und Personenleitsystem · Verstaut; Stehtische und Stühle Alea · Gesichert · Endzustand (Bild noch offen); Verkaufsbereich Alea · Arbeits- und Betriebsmittel verstaut (Bild noch offen); Leergutpaletten Audimax-Keller · Referenz · Lagerplätze im Audimax-Keller.
 
 ### Abbau Schwarze Bar (inkl. Pausenvorbestellungen)
 
@@ -548,7 +532,7 @@ Die schwarze Bar möglichst zügig und noch vor Veranstaltungsende vollständig 
 
 Den Abbau mit der Alea abstimmen, besonders beim Auffüllen der Getränke, beim Leerguttransport und bei der Kassenübergabe.
 
-Die abschließende Müll- und Leergutentsorgung sowie das Spülen und Verräumen der Gläser erfolgen im Rahmen der Checkliste „Abbau Alea (inkl. Garderobe)“.
+Die abschließende Müll- und Leergutentsorgung sowie das Spülen und Verräumen der Gläser erfolgen im Rahmen der Checkliste „Abbau Alea“.
 
 - [ ] **1. Flaschen und Gläser einsammeln**
   - Einsatzbedingung: Möglichst zeitnah nach Pausenende
@@ -606,7 +590,6 @@ Die abschließende Müll- und Leergutentsorgung sowie das Spülen und Verräumen
 
   - [ ] **Pausenvorbestellungen abschließen**
     - Nicht abgeholte Bestellungen mit der Einsatzleitung klären und den Ausgabestatus im Bestellsystem abschließend prüfen.
-    - Anleitung: Pausenvorbestellungen
 
   - [ ] **Sitzkissen und Kisten zurückbringen**
     - Sitzkissen und Kisten im Steinernen Meer einsammeln und nach H2 zurückbringen.
@@ -640,65 +623,56 @@ Die abschließende Müll- und Leergutentsorgung sowie das Spülen und Verräumen
 
 Zum Abschluss: Steinernes Meer · Aufgeräumt; Steinernes Meer · Aufgeräumt · Gesamtansicht; Bereich Pustet · Zurückgebaut · Stehtische an der Wand; Kühlelemente Schwarze Bar · Eingelagert · Audimax Galerie (Bild noch offen); Kühlschrank Schwarze Bar · In H2 · Glasfront zur Wand (Bild noch offen).
 
-### Abbau Aperol Bar
+## Backanleitungen
 
-Aus den Aufbau-Checklisten abgeleiteter Entwurf. Rückgabeplätze und Geräteabschluss vor dem ersten Einsatz mit der Einsatzleitung abgleichen.
+### Cookies aufbacken
 
-Die konkrete Ausstattung und die Rückgabeplätze der Aperol Bar sind noch zu ergänzen.
+**Cookies zuerst einplanen**
 
-- [ ] **1. Verkaufsbereich und eingesetzte Kasse zurücknehmen**
-  - Einsatzbedingung: Wenn eine eigene Kasse eingesetzt wurde
-  - Die eingesetzten Kassengeräte und Kassenlade geordnet übergeben. Den vorhandenen Kassenabschluss beachten.
+Cookies vor den Brezen aufbacken, damit sie vor dem Verkauf auskühlen können.
 
-- [ ] **2. Getränke und übrige Zutaten versorgen**
-  - Restbestände nach dem betrieblichen Ablauf zurücklagern und mit dem Getränke-Team abstimmen. Lagerplätze für die Aperol-Bar-Zutaten müssen noch ergänzt werden.
+**Backmatte belegen**
 
-- [ ] **3. Gläser und Arbeitsmittel reinigen und verstauen**
-  - Benutzte Gläser und Arbeitsmittel reinigen und am vorgesehenen Platz verstauen. Die konkrete Ausstattung wird anhand des endgültigen Aufbauablaufs ergänzt.
+Die Cookie-Teigportionen mit Abstand auf die markierten Kreise der Backmatte setzen. Die Matte liegt auf einem Backblech.
 
-- [ ] **4. Getränkedisplay und Beschilderung abnehmen**
-  - Die eingesetzten Displays und Schilder reinigen und geordnet zurückstellen.
+**Ofen vorheizen**
 
-- [ ] **5. Theke und Arbeitsflächen reinigen**
-  - Die Bar vollständig abräumen, reinigen und trocknen.
+Ofen einschalten und Programm 11 wählen. Im Cookie-Video werden P11, 160 °C und 13 Minuten angezeigt. Auf das Bereitschaftssignal und die OK-Anzeige warten.
 
-- [ ] **6. Bar-Ausstattung zurückbauen und einlagern**
-  - Die eingesetzten Elemente am vorgesehenen Lagerplatz abstellen. Elektrisch angeschlossene Geräte erst nach vollständigem Leeren und nach dem vorgesehenen Geräteabschluss vom Strom trennen.
+**Backen starten**
 
-- [ ] **7. Aufgeräumten Zustand mit dem Zielbild abgleichen**
-  - Bild noch offen: Aperol Bar · Aufgeräumt
+Die Tür über die Türtaste öffnen, das Blech einschieben und die Tür schließen. Den Backvorgang mit START/STOP starten.
 
-Zum Abschluss: Aperol Bar · Aufgeräumt (Bild noch offen).
+**Entnehmen und auskühlen lassen**
 
-### Abbau Getränke & Lager
+Nach dem Endsignal das Blech mit geeignetem Hitzeschutz entnehmen. Die Cookies auskühlen lassen und anschließend auf Servierplatten bereitstellen.
 
-Aus den Aufbau-Checklisten abgeleiteter Entwurf. Rückgabeplätze und Geräteabschluss vor dem ersten Einsatz mit der Einsatzleitung abgleichen.
+Referenzbilder: Backöfen; Backanleitung.
 
-- [ ] **1. Restbestände aus allen Verkaufsbereichen einsammeln**
-  - Getränke und Leergut an der Alea, an der schwarzen Bar und an der Aperol Bar einsammeln. Den zusätzlichen Kühlschrank an Kasse 3 einbeziehen, wenn er aufgebaut war.
+### Brezen aufbacken
 
-- [ ] **2. Getränke und Leergut sortieren**
-  - Volle Gebinde, angebrochene Bestände und Leergut geordnet voneinander trennen. Die Bestände nach Getränkesorte zusammenstellen.
+**Backblech vorbereiten**
 
-- [ ] **3. Getränke an die vorgesehenen Lagerplätze zurückbringen**
-  - Getränke entsprechend ihrer Zuordnung zurücklagern. Kühlpflichtige Ware wieder in die vorgesehene Kühlung bringen.
-  - Rotwein im Trockenlager Unikat oder im Kellerlager im Studierendenhaus zurückstellen. Der Schlüssel für das Kellerlager im Studierendenhaus befindet sich in der Küche des UNIKAT.
-  - Bestände für den Keller Audimax dorthin zurückbringen; der blaue Schlüssel beziehungsweise Chip gehört in der Alea ins Regal neben der Spüle.
+Eine Backmatte aus der Ablage „Backmatten“ auf das Blech legen. Die Brezen mit Abstand auf dem Blech verteilen.
 
-- [ ] **4. Restwaren mit der Unikat-Küche abstimmen**
-  - Übrige Sandwiches, Baguettes und Brezen nach dem betrieblich festgelegten Ablauf versorgen. Rücklagerung oder weiterer Umgang werden mit der Küche abgestimmt.
+**Brezen salzen · Variante 1**
 
-- [ ] **5. Kassenladen nach dem Kassenabschluss zurückbringen**
-  - Die freigegebenen Kassenladen nach dem betrieblichen Übergabeablauf ins Büro des Unikats zurückbringen. Die Zuordnung der Kassen beachten.
+Wie im ersten Video etwas grobes Salz gleichmäßig auf die Oberseite der Brezen streuen.
 
-- [ ] **6. Benutzte Handtücher und Lappen abgeben**
-  - Benutzte Handtücher und Lappen getrennt von sauberer Wäsche zur vorgesehenen Wäschesammelstelle bringen.
+**Brezen salzen · Variante 2**
 
-- [ ] **7. Transportwagen zurückstellen**
-  - Den Transportwagen leeren und in den Betriebsbereich des Unikats zurückbringen.
+Alternativ wie im zweiten Video die Oberseite jeder Breze kurz in das bereitgestellte Salz drücken. Anschließend mit der gesalzenen Seite nach oben auf das Blech legen.
 
-- [ ] **8. Lager aufräumen und Schlüssel zurücklegen**
-  - Kästen und Leergut geordnet abstellen, Laufwege freihalten und das Lager mit dem Zielbild abgleichen.
-  - Alle verwendeten Schlüssel und Chips an ihre vorgesehenen Plätze zurücklegen.
+**Ofen vorheizen**
 
-Zum Abschluss: Getränkelager Audimax · Geordnet · Übersicht; Getränkelager Audimax · Geordnet · Bestände.
+Ofen einschalten und die Produkttaste für Programm 1 wählen. Im Bedienvideo werden P1, 210 °C und 15 Minuten angezeigt. Auf das Bereitschaftssignal und die leuchtende OK-Anzeige warten.
+
+**Blech einschieben und backen**
+
+Die Tür über die Türtaste öffnen, das Blech einschieben und die Tür schließen. Den Backvorgang mit START/STOP starten.
+
+**Brezen entnehmen**
+
+Nach dem Endsignal die Brezen mit geeignetem Hitzeschutz entnehmen und für den Verkauf bereitstellen. Für weitere Bleche das Programm erneut wählen und die Bereitschaftsanzeige abwarten.
+
+Referenzbilder: Backöfen; Backanleitung.
